@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.db
+.gemini/
+Test Results/
+node_modules/
+.env

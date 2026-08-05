@@ -1,0 +1,2802 @@
+[
+  {
+    "session_id": "055b4da9-2b6c-4b5c-a8a3-835b31276152",
+    "student_id": "student_001",
+    "timestamp": "2026-05-27T09:30:49.251178",
+    "archetype_label": "steady_improver",
+    "text": "climate change affects society. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "c581afd8-950f-4fed-9c03-4060af5cdc9a",
+    "student_id": "student_001",
+    "timestamp": "2026-06-10T09:30:49.251178",
+    "archetype_label": "steady_improver",
+    "text": "We should study artificial intelligence more. It might be possible that artificial intelligence could influence the outcome."
+  },
+  {
+    "session_id": "c98fbfe4-77c6-480f-bf4c-46201c7dffa2",
+    "student_id": "student_001",
+    "timestamp": "2026-06-24T09:30:49.251178",
+    "archetype_label": "steady_improver",
+    "text": "We should study global economics more. Since the data indicates a clear trend, it is evident that global economics leads to broader implications."
+  },
+  {
+    "session_id": "20ced684-0662-4c6c-a003-3210cf4b9342",
+    "student_id": "student_001",
+    "timestamp": "2026-07-08T09:30:49.251178",
+    "archetype_label": "steady_improver",
+    "text": "social psychology affects society. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "32271ceb-76f9-495e-9f1d-00696d879a89",
+    "student_id": "student_001",
+    "timestamp": "2026-07-22T09:30:49.251178",
+    "archetype_label": "steady_improver",
+    "text": "Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective. The socioeconomic ramifications of quantum computing exemplify systematic disparities."
+  },
+  {
+    "session_id": "0f13d884-c261-4317-bb2a-94f0963d2903",
+    "student_id": "student_002",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study climate change more. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "bace34eb-0612-4145-b507-f6623582e53e",
+    "student_id": "student_002",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think artificial intelligence is important. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "645f73a5-eb67-4a62-bf5c-3a437d8a4dd1",
+    "student_id": "student_002",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think global economics is important. Although some argue otherwise, global economics is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "01979b7b-8962-419a-8f56-be58cc7cac19",
+    "student_id": "student_002",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think social psychology is important. Since the data indicates a clear trend, it is evident that social psychology leads to broader implications."
+  },
+  {
+    "session_id": "3a80283f-7197-4bcf-9206-93e96da1cb6e",
+    "student_id": "student_002",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "If we consider the historical context, therefore, quantum computing plays a critical role. The socioeconomic ramifications of quantum computing exemplify systematic disparities."
+  },
+  {
+    "session_id": "bb99e5f9-c732-415f-aa07-29c65cab6cc5",
+    "student_id": "student_003",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think climate change is important. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "9f181fdc-e92c-4abc-a02a-6d39d2ba2c79",
+    "student_id": "student_003",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study artificial intelligence more. Perhaps artificial intelligence seems to have a minor effect."
+  },
+  {
+    "session_id": "20aa8f29-566f-48be-92ee-c539546c7e02",
+    "student_id": "student_003",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think global economics is important. Since the data indicates a clear trend, it is evident that global economics leads to broader implications."
+  },
+  {
+    "session_id": "fa9749fd-e937-4a7a-96c4-0c5bda772dd6",
+    "student_id": "student_003",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study social psychology more. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "3f0fb053-c30b-43d8-9e16-973bf0c91409",
+    "student_id": "student_003",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "Since the data indicates a clear trend, it is evident that quantum computing leads to broader implications. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "f979f4fc-a0dd-4649-b70b-ebf536cea236",
+    "student_id": "student_004",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "climate change affects society. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "0a147d25-8911-47dc-8c1c-658f3d9e6720",
+    "student_id": "student_004",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think artificial intelligence is important. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "c7f0d4f5-5969-40a6-afe8-5f5ee9174c6d",
+    "student_id": "student_004",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "global economics affects society. If we consider the historical context, therefore, global economics plays a critical role."
+  },
+  {
+    "session_id": "a8b29ac9-2c58-435d-9cf8-b58bdf499ecf",
+    "student_id": "student_004",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study social psychology more. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "f856a7fb-1e3f-4b22-9bb7-21a3f50d1b3b",
+    "student_id": "student_004",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "Since the data indicates a clear trend, it is evident that quantum computing leads to broader implications. The conceptualization of quantum computing necessitates a paradigm shift."
+  },
+  {
+    "session_id": "5b228350-f38e-4a89-81fa-3909172417f1",
+    "student_id": "student_005",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "climate change affects society. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "be3e82db-4815-4ebd-b243-050f18431167",
+    "student_id": "student_005",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study artificial intelligence more. It might be possible that artificial intelligence could influence the outcome."
+  },
+  {
+    "session_id": "8e128713-9f08-4fd6-98c1-c58a447bfa9d",
+    "student_id": "student_005",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "global economics affects society. Although some argue otherwise, global economics is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "952bc210-2fdb-4358-87ef-b62c5ab80b76",
+    "student_id": "student_005",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study social psychology more. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "917a83bd-624a-4f4f-b5e1-2075f9349c36",
+    "student_id": "student_005",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "If we consider the historical context, therefore, quantum computing plays a critical role. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "2ade697d-ad95-4c11-a185-8659da616839",
+    "student_id": "student_006",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think climate change is important. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "8cf4d250-cd26-4862-9565-ee37a33166ef",
+    "student_id": "student_006",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think artificial intelligence is important. Perhaps artificial intelligence seems to have a minor effect."
+  },
+  {
+    "session_id": "876bb1e2-96ad-4d94-a9b7-e83c1f5f740e",
+    "student_id": "student_006",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think global economics is important. Since the data indicates a clear trend, it is evident that global economics leads to broader implications."
+  },
+  {
+    "session_id": "ab4592ac-a128-4533-b6ae-52a94f01bf5a",
+    "student_id": "student_006",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think social psychology is important. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "ac1e5433-fa0d-4e14-a3d0-38007c30bce8",
+    "student_id": "student_006",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "Since the data indicates a clear trend, it is evident that quantum computing leads to broader implications. The conceptualization of quantum computing necessitates a paradigm shift."
+  },
+  {
+    "session_id": "ffb43684-1176-4e6f-8411-c1598d4e755b",
+    "student_id": "student_007",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study climate change more. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "01712f8d-139b-45a4-af0a-debbf13cc4ef",
+    "student_id": "student_007",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study artificial intelligence more. Perhaps artificial intelligence seems to have a minor effect."
+  },
+  {
+    "session_id": "f013dbf2-4ebc-4dc1-a07e-1e937f503633",
+    "student_id": "student_007",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "global economics affects society. Since the data indicates a clear trend, it is evident that global economics leads to broader implications."
+  },
+  {
+    "session_id": "d45bd159-9cef-4917-a958-6ee6c5f401d3",
+    "student_id": "student_007",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think social psychology is important. If we consider the historical context, therefore, social psychology plays a critical role."
+  },
+  {
+    "session_id": "246286b0-5ca2-4bf0-bbbb-fae67e7c8fa9",
+    "student_id": "student_007",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective. The socioeconomic ramifications of quantum computing exemplify systematic disparities."
+  },
+  {
+    "session_id": "0334a1ef-1858-4f52-8761-90ce2d70828b",
+    "student_id": "student_008",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study climate change more. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "c9c7a721-7f4b-46bf-9f56-e16bb0c09b2f",
+    "student_id": "student_008",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think artificial intelligence is important. It might be possible that artificial intelligence could influence the outcome."
+  },
+  {
+    "session_id": "d196fe8a-7237-400c-bd5c-bd953d6aa4e1",
+    "student_id": "student_008",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study global economics more. If we consider the historical context, therefore, global economics plays a critical role."
+  },
+  {
+    "session_id": "14652fe7-fe52-450c-a8cc-a0114d7a8158",
+    "student_id": "student_008",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "social psychology affects society. Since the data indicates a clear trend, it is evident that social psychology leads to broader implications."
+  },
+  {
+    "session_id": "00078551-ff13-4ab0-8031-be0d4f00d6ec",
+    "student_id": "student_008",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "Since the data indicates a clear trend, it is evident that quantum computing leads to broader implications. The socioeconomic ramifications of quantum computing exemplify systematic disparities."
+  },
+  {
+    "session_id": "3d600960-9d05-4636-8922-df153390c4bc",
+    "student_id": "student_009",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study climate change more. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "edac9ef4-8cf3-4851-8075-b54df95eade7",
+    "student_id": "student_009",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "artificial intelligence affects society. It might be possible that artificial intelligence could influence the outcome."
+  },
+  {
+    "session_id": "5e37ce2b-55df-49d3-ae03-144c355d1bbf",
+    "student_id": "student_009",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study global economics more. If we consider the historical context, therefore, global economics plays a critical role."
+  },
+  {
+    "session_id": "08a12490-1bb0-44a2-9463-0fb321a779e6",
+    "student_id": "student_009",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study social psychology more. If we consider the historical context, therefore, social psychology plays a critical role."
+  },
+  {
+    "session_id": "6717c760-507b-4c16-8104-e7c62822791b",
+    "student_id": "student_009",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "Since the data indicates a clear trend, it is evident that quantum computing leads to broader implications. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "dc8f2b94-8092-4bc4-bffd-06eb2106c2db",
+    "student_id": "student_010",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think climate change is important. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "eabafb31-6ab4-437e-8576-f328ee4cf553",
+    "student_id": "student_010",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "artificial intelligence affects society. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "a1753897-8ab7-4bec-8f53-4f92d75238fa",
+    "student_id": "student_010",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study global economics more. Since the data indicates a clear trend, it is evident that global economics leads to broader implications."
+  },
+  {
+    "session_id": "7676b0b3-8df4-45de-88e6-a54cadbed865",
+    "student_id": "student_010",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study social psychology more. Since the data indicates a clear trend, it is evident that social psychology leads to broader implications."
+  },
+  {
+    "session_id": "e501ac10-5b83-4144-be53-715c99bd963a",
+    "student_id": "student_010",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "If we consider the historical context, therefore, quantum computing plays a critical role. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "78b32535-523d-4d4a-ab12-cef18ca2786c",
+    "student_id": "student_011",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study climate change more. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "cc296901-c84a-4cd1-948a-e72d7b653ba9",
+    "student_id": "student_011",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think artificial intelligence is important. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "ce48c116-60d3-4dab-b351-3483ce2010e4",
+    "student_id": "student_011",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think global economics is important. Although some argue otherwise, global economics is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "c4e4cfdb-c109-4784-aed2-dfdcd12eadff",
+    "student_id": "student_011",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think social psychology is important. If we consider the historical context, therefore, social psychology plays a critical role."
+  },
+  {
+    "session_id": "4f7b772c-f4a1-4b67-a911-07fa081de6e1",
+    "student_id": "student_011",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "Since the data indicates a clear trend, it is evident that quantum computing leads to broader implications. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "981fe713-0c39-498e-9ae2-88f04d3e36c2",
+    "student_id": "student_012",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think climate change is important. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "607587a7-429b-4aa0-be53-2609ee778ba3",
+    "student_id": "student_012",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think artificial intelligence is important. Perhaps artificial intelligence seems to have a minor effect."
+  },
+  {
+    "session_id": "23862967-8737-477c-95d6-a7a0b4c3fbaa",
+    "student_id": "student_012",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "global economics affects society. Since the data indicates a clear trend, it is evident that global economics leads to broader implications."
+  },
+  {
+    "session_id": "ec024fd4-ea38-4e87-a2d8-e362d9c2e784",
+    "student_id": "student_012",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "social psychology affects society. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "596ff74d-5a99-4515-9d14-ee673fcf6853",
+    "student_id": "student_012",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "If we consider the historical context, therefore, quantum computing plays a critical role. The socioeconomic ramifications of quantum computing exemplify systematic disparities."
+  },
+  {
+    "session_id": "a644cca6-65a2-48fd-b0c5-cb66af3d302b",
+    "student_id": "student_013",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study climate change more. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "85c47195-be02-44bb-a941-00bffa9cb734",
+    "student_id": "student_013",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "artificial intelligence affects society. Perhaps artificial intelligence seems to have a minor effect."
+  },
+  {
+    "session_id": "7136e6bf-ab59-4750-8052-fdb1b50d7277",
+    "student_id": "student_013",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think global economics is important. If we consider the historical context, therefore, global economics plays a critical role."
+  },
+  {
+    "session_id": "5f1bd097-cb78-4ad9-b3d8-420e1df43b00",
+    "student_id": "student_013",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think social psychology is important. Since the data indicates a clear trend, it is evident that social psychology leads to broader implications."
+  },
+  {
+    "session_id": "35005b1a-1384-4de5-b99d-69c834ab5c76",
+    "student_id": "student_013",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "501f73fc-8e4f-4e28-9e52-69292c1ab9db",
+    "student_id": "student_014",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "climate change affects society. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "31b08bef-573e-4cf1-a17c-55c54044e5cf",
+    "student_id": "student_014",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "artificial intelligence affects society. It might be possible that artificial intelligence could influence the outcome."
+  },
+  {
+    "session_id": "1429bb86-2887-4349-ad43-4a2e7ef8ee04",
+    "student_id": "student_014",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study global economics more. Although some argue otherwise, global economics is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "62f8a888-a957-40f5-ba7a-ae17670f8a5a",
+    "student_id": "student_014",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study social psychology more. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "0c83dc17-e821-4b62-af01-3dc9e7d8b18d",
+    "student_id": "student_014",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "If we consider the historical context, therefore, quantum computing plays a critical role. The socioeconomic ramifications of quantum computing exemplify systematic disparities."
+  },
+  {
+    "session_id": "68b1d62d-d32e-49ec-89e9-ac2c15ab5dd8",
+    "student_id": "student_015",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study climate change more. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "9890767d-8f4d-4449-b0d9-d3589a36fd9b",
+    "student_id": "student_015",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study artificial intelligence more. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "3e6b924f-ce36-48fd-a759-0379b16db17a",
+    "student_id": "student_015",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "global economics affects society. Since the data indicates a clear trend, it is evident that global economics leads to broader implications."
+  },
+  {
+    "session_id": "8fb4c16b-2520-4b4d-9dbd-47bb8fb4fc85",
+    "student_id": "student_015",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "social psychology affects society. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "58838a37-c649-48a9-9ac2-ccdde8adc402",
+    "student_id": "student_015",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "f02409f7-6237-49a2-ae47-17fec9687f34",
+    "student_id": "student_016",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study climate change more. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "73a40da3-64fb-4a18-b599-b88e5b61081c",
+    "student_id": "student_016",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "artificial intelligence affects society. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "25a1bb61-9455-4739-83fa-781f58f870cf",
+    "student_id": "student_016",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think global economics is important. If we consider the historical context, therefore, global economics plays a critical role."
+  },
+  {
+    "session_id": "f3270fb5-c821-4318-b036-e544752a0a8c",
+    "student_id": "student_016",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study social psychology more. If we consider the historical context, therefore, social psychology plays a critical role."
+  },
+  {
+    "session_id": "dadd9887-b023-40ae-bb9a-8799e1b3cf27",
+    "student_id": "student_016",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "If we consider the historical context, therefore, quantum computing plays a critical role. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "738f55f5-a711-4a58-8d2f-4fecf6dbb774",
+    "student_id": "student_017",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think climate change is important. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "4ac64c4f-c69e-4706-a5d9-bbaea9c4b6bb",
+    "student_id": "student_017",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study artificial intelligence more. It might be possible that artificial intelligence could influence the outcome."
+  },
+  {
+    "session_id": "73f28d1a-7279-42f8-95d0-41931dd80160",
+    "student_id": "student_017",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "global economics affects society. Since the data indicates a clear trend, it is evident that global economics leads to broader implications."
+  },
+  {
+    "session_id": "d810a95a-b697-465c-b1a2-1644221eb8a1",
+    "student_id": "student_017",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think social psychology is important. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "1e248377-a4b4-4b38-ba21-7a0a6a64081f",
+    "student_id": "student_017",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "430f38df-9de0-4250-9cf6-61b62b1ed14e",
+    "student_id": "student_018",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think climate change is important. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "3b8b477b-d9b8-42ed-a429-f7a9eb6c1ea2",
+    "student_id": "student_018",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study artificial intelligence more. Perhaps artificial intelligence seems to have a minor effect."
+  },
+  {
+    "session_id": "f6c4db9d-b033-4dac-8078-08d1df3d6a8f",
+    "student_id": "student_018",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "global economics affects society. Since the data indicates a clear trend, it is evident that global economics leads to broader implications."
+  },
+  {
+    "session_id": "a2471a39-9188-4a98-b396-fd24ff81567a",
+    "student_id": "student_018",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "social psychology affects society. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "8a42a1fb-2817-4371-83dd-6ee02d8d4631",
+    "student_id": "student_018",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "If we consider the historical context, therefore, quantum computing plays a critical role. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "d93e45ba-eef7-4202-9208-f2ebcb7f757e",
+    "student_id": "student_019",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study climate change more. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "ab81ca5f-d627-41f1-87e2-58a9f447ba8f",
+    "student_id": "student_019",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think artificial intelligence is important. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "b046832b-d869-499b-8b29-d1093f441d0f",
+    "student_id": "student_019",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "global economics affects society. If we consider the historical context, therefore, global economics plays a critical role."
+  },
+  {
+    "session_id": "ca65bfda-5150-4db9-948f-0c733fd93737",
+    "student_id": "student_019",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study social psychology more. Since the data indicates a clear trend, it is evident that social psychology leads to broader implications."
+  },
+  {
+    "session_id": "b80be92b-6c73-41fe-b1c7-73f90c662eaf",
+    "student_id": "student_019",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "9d38774f-9e61-4505-8446-2990f23c942e",
+    "student_id": "student_020",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study climate change more. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "ec3dbb50-ecbc-4406-82f7-c152ba031b85",
+    "student_id": "student_020",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think artificial intelligence is important. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "94ecf361-88c8-478c-ae01-7e50914b597f",
+    "student_id": "student_020",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "I think global economics is important. Although some argue otherwise, global economics is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "0d31e2ee-f2b9-4a6b-a250-6142937b1bbf",
+    "student_id": "student_020",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "We should study social psychology more. Since the data indicates a clear trend, it is evident that social psychology leads to broader implications."
+  },
+  {
+    "session_id": "be507a59-17c1-4307-9df9-28dae6d2f229",
+    "student_id": "student_020",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "steady_improver",
+    "text": "Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective. The socioeconomic ramifications of quantum computing exemplify systematic disparities."
+  },
+  {
+    "session_id": "99c30dcb-e085-4b5f-8bf9-955da9134d9f",
+    "student_id": "student_021",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "fe6abed1-0b97-4575-b049-6841e1585ead",
+    "student_id": "student_021",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "8471097b-57f5-47b4-8418-15512c7ef6e4",
+    "student_id": "student_021",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "66e7353c-26d8-494f-a34d-60c67b074fbc",
+    "student_id": "student_021",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "8ae97835-78b1-495d-9cd9-5a5f88292172",
+    "student_id": "student_021",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "9f872818-ee75-4490-b185-5c7ef9f2a241",
+    "student_id": "student_022",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "49738f67-c402-4d8d-bb6b-441446660ce4",
+    "student_id": "student_022",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "9ada2e23-4f11-42cc-9710-1a5989120312",
+    "student_id": "student_022",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "a4572d99-9e5d-46a7-a9eb-d95372201fcf",
+    "student_id": "student_022",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "b35d98b4-5b91-47a1-a848-0eba53f582b8",
+    "student_id": "student_022",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "edca5ca4-bc55-444a-9743-b42d3f6d1a9d",
+    "student_id": "student_023",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "c3b005bc-2c99-4fc5-ad35-e2cb4c729867",
+    "student_id": "student_023",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "bc21cc8e-94a8-43b7-a88b-7a7c2449edb8",
+    "student_id": "student_023",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "5fd448ec-c09f-428c-bd27-676f9ce6f959",
+    "student_id": "student_023",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "d6da0af1-ca3d-4898-a378-31ed3a78bb1d",
+    "student_id": "student_023",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "0c7fcb74-b98b-4b45-89b3-6bda88bc0088",
+    "student_id": "student_024",
+    "timestamp": "2026-05-27T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "d508fd85-0f28-4a08-be8b-fa4caf276a9e",
+    "student_id": "student_024",
+    "timestamp": "2026-06-10T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "61926d72-617f-4bbf-bdcc-89281bd454dc",
+    "student_id": "student_024",
+    "timestamp": "2026-06-24T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "ae5f0749-4cc2-4699-824c-c9afa27274d9",
+    "student_id": "student_024",
+    "timestamp": "2026-07-08T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "d44b6d3f-53f3-4d92-8a0e-b2aec803cc5d",
+    "student_id": "student_024",
+    "timestamp": "2026-07-22T09:30:49.252177",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "ae6e7ebd-a2a8-432f-b67c-b3311381404f",
+    "student_id": "student_025",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "8199451a-b23c-4510-90b2-07d6d9b6b7a6",
+    "student_id": "student_025",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "da3ef8df-8340-4ce4-8eb7-8d51f7e3071e",
+    "student_id": "student_025",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "129c6db1-68e3-4b56-b97d-581bb67edda0",
+    "student_id": "student_025",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "0b583013-ed0a-4fda-9f82-cf0badb524d4",
+    "student_id": "student_025",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "fa376f61-7412-4dc0-ab0a-1f9a13c7f168",
+    "student_id": "student_026",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "1cc0cbd7-1f16-4e98-85bd-c9ad3f780501",
+    "student_id": "student_026",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "f4ce1e46-a312-4920-b107-4d9970f2c014",
+    "student_id": "student_026",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "2e662698-7c18-47ff-8eaf-9ddc05208db5",
+    "student_id": "student_026",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "f16d0404-ae39-4ef4-b6e8-690a78bd5b84",
+    "student_id": "student_026",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "09e6b7ae-af72-4afa-b906-ba9a097a0f8c",
+    "student_id": "student_027",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "585c8759-c356-4b52-8073-d5c146d8a1fa",
+    "student_id": "student_027",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "5043e5d9-7405-4fb4-a569-da4d1b62de5c",
+    "student_id": "student_027",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "bbc2a614-8f5d-48e3-a18d-47e9b423c910",
+    "student_id": "student_027",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "4b047dff-2ed2-4962-881b-6f1af632c20b",
+    "student_id": "student_027",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "d6183251-92e3-4514-a5ea-15b9b4c921d5",
+    "student_id": "student_028",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "116dafac-471c-4de9-9150-265ad45b1fcf",
+    "student_id": "student_028",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "78dc4a22-9f6a-4a7a-8fcb-4c1d81343347",
+    "student_id": "student_028",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "6e6f50e0-13d3-438b-8530-40b86fe2d0a8",
+    "student_id": "student_028",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "c87bd7c8-00a7-477d-aee7-c02f8a3afc8b",
+    "student_id": "student_028",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "ee9293eb-0020-4d03-9bcf-33ab97cd5fcf",
+    "student_id": "student_029",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "20989073-b21d-4e2e-9325-57c162eabdfc",
+    "student_id": "student_029",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "dc13e4d2-9f9a-409f-ac54-bf22838b7731",
+    "student_id": "student_029",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "ea16bd8e-8c98-4592-a72e-493c2360da29",
+    "student_id": "student_029",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "fc0c17a3-6363-457b-b12d-554d9fb5fb85",
+    "student_id": "student_029",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "320bb554-c47c-4bfb-9594-ae0dc26db4dd",
+    "student_id": "student_030",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "88191c0b-3718-4f1a-81df-776554eaa73c",
+    "student_id": "student_030",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "d5cb69cc-98b9-4916-b78a-fca5baffee69",
+    "student_id": "student_030",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "a235029d-8a08-4ae8-934b-c5689af6e433",
+    "student_id": "student_030",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "b41da56f-440d-490a-ad01-ddeca37d0acf",
+    "student_id": "student_030",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "efe4e52d-201e-4730-b456-57be0e000570",
+    "student_id": "student_031",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "80086987-c4ec-44f1-8c8f-714d72ca11e1",
+    "student_id": "student_031",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "0322e4ba-d74c-41fa-9a6f-b198097fdd66",
+    "student_id": "student_031",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "e14bbc22-d275-4208-8286-8fa0efae800f",
+    "student_id": "student_031",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "7bc1294b-e483-4a46-a74b-8e1e87e6e1e3",
+    "student_id": "student_031",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "7269f6c4-6663-4df3-ac6e-1f484f74a7ab",
+    "student_id": "student_032",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "c40ed97f-35f9-4dc4-adb4-9fafb33bbb74",
+    "student_id": "student_032",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "f7d1e140-5d78-47ec-aa9d-72a6e2ed6027",
+    "student_id": "student_032",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "61cc000a-8bfc-434d-bde0-7e667a62a45b",
+    "student_id": "student_032",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "9513f541-3624-4e26-8f41-3fc009541fa7",
+    "student_id": "student_032",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "40e873be-fb08-40cf-874b-354717c99b44",
+    "student_id": "student_033",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "4ce7801e-8041-4db7-a801-fd7846155cb3",
+    "student_id": "student_033",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "bf3ac842-3b9f-43b6-8a62-e10a54136fef",
+    "student_id": "student_033",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "d925863d-c68d-47b0-8c58-1e82675f1886",
+    "student_id": "student_033",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "d4bcea99-71dd-4798-9270-9145bb8c62e2",
+    "student_id": "student_033",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "ac7d58c0-994a-472b-8cdf-9377793c355b",
+    "student_id": "student_034",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "b4e52804-e413-492a-8b82-61aee106fe7a",
+    "student_id": "student_034",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "899fb2ce-0092-44ef-93cb-b2d715b463d8",
+    "student_id": "student_034",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "117b3f08-1f25-43e0-8e00-09e3a9effddc",
+    "student_id": "student_034",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "ed2fe19f-8c70-4968-af50-aca10162a846",
+    "student_id": "student_034",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "3aff5980-7f6f-478a-911a-3ce0181b2df6",
+    "student_id": "student_035",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "93fb745e-bcb0-406e-ba7d-dd7e865e10ff",
+    "student_id": "student_035",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "946c756e-4af7-4a17-b084-4cc843af4380",
+    "student_id": "student_035",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "52faaac4-3817-4c85-804f-696013826e9b",
+    "student_id": "student_035",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "bc46c75e-2cc2-44ca-8082-67d4ec533c9d",
+    "student_id": "student_035",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "27d25bb7-09a5-4e63-ba2d-c8e3fe2ab6b2",
+    "student_id": "student_036",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "33fd69db-1340-4895-bab3-8e853835c04d",
+    "student_id": "student_036",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "9047911b-2e97-44b1-9636-5391dd07f0d0",
+    "student_id": "student_036",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "ba1944d4-48e7-4e79-ab38-96b9cc90d72d",
+    "student_id": "student_036",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "43f6cc83-def6-4066-972c-42fa10add6bb",
+    "student_id": "student_036",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "d7dc626e-c914-4eeb-950e-046c6a333362",
+    "student_id": "student_037",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "5c311500-c58b-4510-86b0-1b30328f1a91",
+    "student_id": "student_037",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "67f82333-5daa-45bc-a22a-8f5e45f7282b",
+    "student_id": "student_037",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "3828d7d5-e70c-41c9-97f2-31046ebe509b",
+    "student_id": "student_037",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "7b23296d-e87d-4e3f-9c50-3c8dffd89c23",
+    "student_id": "student_037",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "764a41fb-fc13-42ab-8ce6-8a8f7f7694a8",
+    "student_id": "student_038",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "e0d757c9-c019-422b-b7d8-28535794abaa",
+    "student_id": "student_038",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "df561e60-35e1-4a11-9a7b-b8a6b0b30105",
+    "student_id": "student_038",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "d1c9af52-9ad4-445d-80d3-0b36e5dde8b7",
+    "student_id": "student_038",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "832b3b97-cbd7-49c0-8193-6c6dcc72bdfa",
+    "student_id": "student_038",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "2cf07f69-4b13-4a68-9950-3c7ac6762137",
+    "student_id": "student_039",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "d74a9a91-28c1-4159-be61-bb0eab39b5a2",
+    "student_id": "student_039",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "845a8c2d-d4ff-43dd-8068-e89acef48e73",
+    "student_id": "student_039",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "4cf9b8d1-9edc-488c-a730-65edd4094f20",
+    "student_id": "student_039",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "1d050ab7-4b62-4842-8d30-d7e6d5c354f6",
+    "student_id": "student_039",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "aef6814a-ac6c-4235-88a9-ee980a4977a8",
+    "student_id": "student_040",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "9e4d648e-2c86-4150-922a-eac8ed460a8e",
+    "student_id": "student_040",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "aaef577a-6b7b-4357-a378-e49a193fae64",
+    "student_id": "student_040",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "58756a3f-eeca-4749-ae07-b8f0d99a35e9",
+    "student_id": "student_040",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "e5e301e1-5e56-4a74-a90e-0b79b2d09ff7",
+    "student_id": "student_040",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "plateauing",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "64e26098-5d06-4ea9-9e97-177188c235fb",
+    "student_id": "student_041",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "011e0eda-e806-429b-99d0-d93376a32bd7",
+    "student_id": "student_041",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "f30dd695-ae52-4fdf-90b6-4c2503201c01",
+    "student_id": "student_041",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "202988cc-02e8-4ed8-8d14-cea1db5f5a6c",
+    "student_id": "student_041",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "8e0ce523-77d8-4c35-b154-5b7ebd793dd2",
+    "student_id": "student_041",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "69e0529f-afef-4c54-a743-f79d2585f644",
+    "student_id": "student_042",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "f65a51f9-804c-4ae8-807c-12e38089d353",
+    "student_id": "student_042",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "42a39198-4492-48fd-8b97-91a025c48719",
+    "student_id": "student_042",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "63ee918e-5e35-4ce9-9e39-ac683940c2f0",
+    "student_id": "student_042",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "dd6cff63-c764-47da-b25a-c786a55d7e5d",
+    "student_id": "student_042",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "0ab606e1-e6b8-4f5a-bc77-a98ab6dcd173",
+    "student_id": "student_043",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "fff8310b-aada-45fb-81a6-ebf00e377e38",
+    "student_id": "student_043",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "5aa6b2ff-2452-4c28-b930-072cd8023920",
+    "student_id": "student_043",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "8c52ac03-6dc8-4ba1-9ed3-5d923595e129",
+    "student_id": "student_043",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "4663b39b-e1d8-4c47-a9c2-5f87b5c021c8",
+    "student_id": "student_043",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "1a16bd1d-4174-40de-8b5b-3ea18744d4f6",
+    "student_id": "student_044",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "ee2fa257-1e32-4714-bb50-a6d479ad739d",
+    "student_id": "student_044",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "f9ad0a90-b590-40db-865e-602e110048f6",
+    "student_id": "student_044",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "85aa258c-eead-436c-9cd2-086419396252",
+    "student_id": "student_044",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "a202e395-d1b2-4e23-b0dc-cd4f8710a492",
+    "student_id": "student_044",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "60f4db36-014a-4709-b979-94c9f1b3c9cf",
+    "student_id": "student_045",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "ac45b1de-59d0-4494-a067-f6778414f20f",
+    "student_id": "student_045",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "c9ee777e-2d75-4ba8-ae7d-924100b9126d",
+    "student_id": "student_045",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. If we consider the historical context, therefore, climate change plays a critical role. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "e62cddd7-203f-4d70-ba72-c956fc9f0400",
+    "student_id": "student_045",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "de2f7413-3631-4014-b3f8-75fe0aba6d71",
+    "student_id": "student_045",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "97bff8d3-0fe8-4194-9da2-68139e01f355",
+    "student_id": "student_046",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "9edacd6e-c15d-4568-a910-b9917e4adc1f",
+    "student_id": "student_046",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "79775d3d-a780-48a2-994f-d1deaf41df12",
+    "student_id": "student_046",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. Since the data indicates a clear trend, it is evident that climate change leads to broader implications. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "dddf7c85-d732-4ff1-a6c1-179979a69035",
+    "student_id": "student_046",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "4bbd2b48-93e3-415f-a77b-ce06cdafd217",
+    "student_id": "student_046",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "284bd236-7a3e-45df-9bc5-bdb18ef02482",
+    "student_id": "student_047",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "2ffc124d-cbfb-492c-be01-3712170e7120",
+    "student_id": "student_047",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. The conceptualization of climate change necessitates a paradigm shift."
+  },
+  {
+    "session_id": "4ab3a48a-a69e-41cf-ae87-0667592222b7",
+    "student_id": "student_047",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "8f74cc13-5063-4372-a968-f6c1f63b3733",
+    "student_id": "student_047",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "5c39aba7-d11d-4596-815d-67264eda3544",
+    "student_id": "student_047",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "74318956-471c-4dee-9646-e244a7c41e69",
+    "student_id": "student_048",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The conceptualization of climate change necessitates a paradigm shift."
+  },
+  {
+    "session_id": "16f05f49-302f-4ad5-ba70-9d4b063fe64b",
+    "student_id": "student_048",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "e74ac616-06ce-444b-b0f1-003caa69fb2d",
+    "student_id": "student_048",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "32e99ad2-d8a5-46b9-bcc7-60cbffd6f8be",
+    "student_id": "student_048",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "8ec70e76-b493-4555-8b19-f8fb58cef769",
+    "student_id": "student_048",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "f7038596-eeab-4afa-82b9-6c1333782022",
+    "student_id": "student_049",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "6aadd4c1-2521-4a47-81d5-59371a78004e",
+    "student_id": "student_049",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. The conceptualization of climate change necessitates a paradigm shift."
+  },
+  {
+    "session_id": "d48bdc30-65bd-4c6a-8801-1011e635823c",
+    "student_id": "student_049",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "309b2d71-23a3-4d26-8663-ad73783ded96",
+    "student_id": "student_049",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "7e2ac1cc-5fbc-4826-90fd-3cfb41615bc4",
+    "student_id": "student_049",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "f60c7cf9-d0eb-469c-83bd-d790e2530e07",
+    "student_id": "student_050",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. The conceptualization of climate change necessitates a paradigm shift."
+  },
+  {
+    "session_id": "e7193247-de04-4966-96a5-80a2d01bdc32",
+    "student_id": "student_050",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The conceptualization of climate change necessitates a paradigm shift."
+  },
+  {
+    "session_id": "b8052ece-f676-4cb0-85c4-061e46f3221b",
+    "student_id": "student_050",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. If we consider the historical context, therefore, climate change plays a critical role. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "b9c0edc2-f73d-4d4e-85bb-f95dd8fd54e8",
+    "student_id": "student_050",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "243baec0-7bde-479a-a5f4-ab4e2129291f",
+    "student_id": "student_050",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "6941afb2-7976-4f71-b5df-3534cfd5aec2",
+    "student_id": "student_051",
+    "timestamp": "2026-05-27T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The conceptualization of climate change necessitates a paradigm shift."
+  },
+  {
+    "session_id": "4b7dc8ef-3045-4bc9-9f37-fd6796cf6e0e",
+    "student_id": "student_051",
+    "timestamp": "2026-06-10T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "b8d664e4-6238-416b-acfd-8102d261e4f8",
+    "student_id": "student_051",
+    "timestamp": "2026-06-24T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "d5e0077e-b74a-491c-9d22-81683710b269",
+    "student_id": "student_051",
+    "timestamp": "2026-07-08T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "931f28c3-e7d4-4034-9226-15279c8095b6",
+    "student_id": "student_051",
+    "timestamp": "2026-07-22T09:30:49.253170",
+    "archetype_label": "declining",
+    "text": "climate change affects society. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "cadabf42-326a-4772-8448-e7bebba2adbd",
+    "student_id": "student_052",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The conceptualization of climate change necessitates a paradigm shift."
+  },
+  {
+    "session_id": "136bb52d-f3b4-4cbc-a0ac-ab33e5e38cd1",
+    "student_id": "student_052",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "6d6ba467-270d-4f68-943e-18bf8f718240",
+    "student_id": "student_052",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "041bbcc8-0ba4-4971-9a59-d2d32bd0985a",
+    "student_id": "student_052",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "30972631-5689-4d8c-9436-244317d12f7b",
+    "student_id": "student_052",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "582d42b7-cc34-4255-8b39-bc824fea3c30",
+    "student_id": "student_053",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "99a97f4b-47af-4350-9e4d-929ead81fcbe",
+    "student_id": "student_053",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The conceptualization of climate change necessitates a paradigm shift."
+  },
+  {
+    "session_id": "93b6ff3b-3f04-45c0-87d2-b757cafc95ef",
+    "student_id": "student_053",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "ff50b58e-ecd7-41ea-80fb-90a7fc927e6d",
+    "student_id": "student_053",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "8357ee07-4051-47d0-8c2f-67c2ab1400cc",
+    "student_id": "student_053",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "6c9e6416-03e0-433c-bd02-e40c5e025829",
+    "student_id": "student_054",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "0a0a567a-5551-49a9-add0-b950848bb861",
+    "student_id": "student_054",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. The conceptualization of climate change necessitates a paradigm shift."
+  },
+  {
+    "session_id": "07f81a82-c505-4a4c-ad8e-a4585947a97e",
+    "student_id": "student_054",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. Although some argue otherwise, climate change is important because it fundamentally alters our perspective. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "e8b8019d-f3a5-4b25-9379-c900febeb0af",
+    "student_id": "student_054",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "c43f4023-1730-44f9-827c-acca42de5ff5",
+    "student_id": "student_054",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "climate change affects society. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "769f7581-3602-4f33-8b84-c397b08d8850",
+    "student_id": "student_055",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "06ac40a6-23d5-4305-9665-538e2cb2ddbb",
+    "student_id": "student_055",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "d8345b88-e3f4-483c-ba2d-2478e19b9d45",
+    "student_id": "student_055",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "a79acd10-dfea-4743-9f60-1fed2b919792",
+    "student_id": "student_055",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "climate change affects society. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "3ed61fd8-bd9f-4a55-a768-06c390130b2c",
+    "student_id": "student_055",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "d2f673b3-5b33-494a-909e-e75ab7fefaf5",
+    "student_id": "student_056",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. The conceptualization of climate change necessitates a paradigm shift."
+  },
+  {
+    "session_id": "2e009ef9-0b0f-436d-a0b8-4d310aca0023",
+    "student_id": "student_056",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "d7352c31-18ba-4654-80ff-3328f03e1299",
+    "student_id": "student_056",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. If we consider the historical context, therefore, climate change plays a critical role. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "43464ba7-60a1-4054-8d31-0a92e32900c1",
+    "student_id": "student_056",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "climate change affects society. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "2842031c-1412-4e41-ac0d-607d7ae53dfc",
+    "student_id": "student_056",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "e2b50608-67e9-4b90-9ebc-b6bf91d1ef7f",
+    "student_id": "student_057",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "8a61ce7c-f158-48ab-84ec-39e7795eb338",
+    "student_id": "student_057",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. The conceptualization of climate change necessitates a paradigm shift."
+  },
+  {
+    "session_id": "74ff4a9b-3fed-4530-a480-7dc9d38085ea",
+    "student_id": "student_057",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "cb98a80e-69b5-4461-af77-4b16cfa8d7bc",
+    "student_id": "student_057",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "cd1f285e-877e-479e-acb3-07b2042ffabe",
+    "student_id": "student_057",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "climate change affects society. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "a7caf490-7d8f-43f0-a404-c2e1945c4936",
+    "student_id": "student_058",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "7a01af2b-3930-4c7c-9011-7a261f720172",
+    "student_id": "student_058",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "8fd2a9ee-00b2-4162-9994-68c821028608",
+    "student_id": "student_058",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "I think climate change is important. If we consider the historical context, therefore, climate change plays a critical role. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "5257ab86-dc2c-4ac8-9f82-36e27b9c651f",
+    "student_id": "student_058",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "climate change affects society. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "8a5b4b42-ad47-4618-97ec-79b87f04c315",
+    "student_id": "student_058",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "climate change affects society. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "8f1b31d8-7a92-4b1a-8d05-7857142db6c6",
+    "student_id": "student_059",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "97258bdf-87f3-4b9a-9f33-2eb8f26119b7",
+    "student_id": "student_059",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "92ec8d13-621a-48c9-9cdf-eb4489b3d695",
+    "student_id": "student_059",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "4a01d4c0-c124-4f2d-abb3-8a78c3edba10",
+    "student_id": "student_059",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "c06c152f-299b-4a5a-81b3-a134eea3148e",
+    "student_id": "student_059",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "69556c79-06a6-4c98-aab1-4fc9890b3878",
+    "student_id": "student_060",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "e735aa88-e67f-4831-aa1e-24386ba04fd7",
+    "student_id": "student_060",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "b10b114c-3ecc-4565-8116-f40f198b45fd",
+    "student_id": "student_060",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "db703ea8-c474-4c05-aa6f-66c5d0c7abab",
+    "student_id": "student_060",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "We should study climate change more. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "693f499d-26b6-46ff-b246-36636b67b433",
+    "student_id": "student_060",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "declining",
+    "text": "climate change affects society. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "92224567-18f9-40da-8fd1-49dea140391b",
+    "student_id": "student_061",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "climate change affects society. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "da4b97b2-9b07-4746-bc51-2b04be11e552",
+    "student_id": "student_061",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "We should study social psychology more. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective. It might be possible that social psychology could influence the outcome."
+  },
+  {
+    "session_id": "d66e44bf-7d17-4131-9a49-1608d0e6cdf5",
+    "student_id": "student_061",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, social psychology plays a critical role. The socioeconomic ramifications of social psychology exemplify systematic disparities. Perhaps social psychology seems to have a minor effect."
+  },
+  {
+    "session_id": "9bdce134-6650-4234-b2b9-97923df8f6a3",
+    "student_id": "student_061",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think climate change is important."
+  },
+  {
+    "session_id": "9792e0a3-c260-4ba4-8ebe-d6eb585862d9",
+    "student_id": "student_061",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "Since the data indicates a clear trend, it is evident that artificial intelligence leads to broader implications. The socioeconomic ramifications of artificial intelligence exemplify systematic disparities. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "f5df7c42-f7cd-4617-9fd1-143610dfddd0",
+    "student_id": "student_062",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, social psychology plays a critical role. The socioeconomic ramifications of social psychology exemplify systematic disparities."
+  },
+  {
+    "session_id": "a149e048-0646-4c5d-bc93-8df0e8a4ff9d",
+    "student_id": "student_062",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "climate change affects society. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "68620244-82d0-4d58-bad5-7875a1aa77bb",
+    "student_id": "student_062",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, global economics is important because it fundamentally alters our perspective. Methodological considerations regarding global economics require institutional framework modifications."
+  },
+  {
+    "session_id": "bb38458e-5547-439f-9532-ef843db0754f",
+    "student_id": "student_062",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, quantum computing plays a critical role. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "b645d0ac-6f85-4d88-af6d-a6bf0f40815e",
+    "student_id": "student_062",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "We should study quantum computing more. Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective. It might be possible that quantum computing could influence the outcome."
+  },
+  {
+    "session_id": "b8f05a43-ab43-4934-bee1-f7d3955aa787",
+    "student_id": "student_063",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "We should study climate change more."
+  },
+  {
+    "session_id": "fb5cc3a4-13a9-4310-8f6d-82c2b53c9ade",
+    "student_id": "student_063",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "quantum computing affects society. If we consider the historical context, therefore, quantum computing plays a critical role."
+  },
+  {
+    "session_id": "eca19269-56e7-4963-a8e8-dff4292b502a",
+    "student_id": "student_063",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, global economics plays a critical role. The conceptualization of global economics necessitates a paradigm shift. I might suggest that global economics could possibly be related."
+  },
+  {
+    "session_id": "fc523313-8474-462b-801b-3bd7a0d42e9f",
+    "student_id": "student_063",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "We should study quantum computing more. Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "b42956b1-5642-4eb7-8063-7b3e77251130",
+    "student_id": "student_063",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "We should study global economics more. If we consider the historical context, therefore, global economics plays a critical role."
+  },
+  {
+    "session_id": "37ff8bb4-1082-44b1-89de-8257ec44c5e7",
+    "student_id": "student_064",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "Since the data indicates a clear trend, it is evident that social psychology leads to broader implications. The conceptualization of social psychology necessitates a paradigm shift."
+  },
+  {
+    "session_id": "af065f78-828d-4d99-a5dc-19d8fe34f5c2",
+    "student_id": "student_064",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "social psychology affects society. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "1512dfd3-c0f2-4f2f-9145-facb20700e83",
+    "student_id": "student_064",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "artificial intelligence affects society."
+  },
+  {
+    "session_id": "8ab677d1-b79b-4a02-adaa-73027c5acbbe",
+    "student_id": "student_064",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "social psychology affects society. I might suggest that social psychology could possibly be related."
+  },
+  {
+    "session_id": "393e19e8-9285-43e7-a470-ec0b7ff5069b",
+    "student_id": "student_064",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. The conceptualization of climate change necessitates a paradigm shift."
+  },
+  {
+    "session_id": "b9b11367-a2bd-42dd-90db-1d81cc54bb8a",
+    "student_id": "student_065",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. Methodological considerations regarding climate change require institutional framework modifications. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "ba451013-ed59-4c8c-a9f1-e21d3624ee2c",
+    "student_id": "student_065",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "cd74b48f-daa8-49fa-8c35-edd5d7baa343",
+    "student_id": "student_065",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, global economics is important because it fundamentally alters our perspective. The conceptualization of global economics necessitates a paradigm shift. I might suggest that global economics could possibly be related."
+  },
+  {
+    "session_id": "0c4e6e3b-a0dc-4640-99df-14d7e207cdf4",
+    "student_id": "student_065",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, social psychology is important because it fundamentally alters our perspective. Methodological considerations regarding social psychology require institutional framework modifications. Perhaps social psychology seems to have a minor effect."
+  },
+  {
+    "session_id": "ac89dfaa-f7fd-478f-a482-d07e4e60e46c",
+    "student_id": "student_065",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think global economics is important. Although some argue otherwise, global economics is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "d0d8b7a8-76d0-46ce-ac76-97355f19871f",
+    "student_id": "student_066",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, global economics plays a critical role. Methodological considerations regarding global economics require institutional framework modifications."
+  },
+  {
+    "session_id": "7d5df849-f73a-4742-9a60-94fad26fe5a2",
+    "student_id": "student_066",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, quantum computing plays a critical role. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "64cc2c4a-a983-4cc6-9980-3fe91cc8f116",
+    "student_id": "student_066",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think artificial intelligence is important. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "54d6c1ee-04a9-4141-b98a-670cd0b2955e",
+    "student_id": "student_066",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think global economics is important. Perhaps global economics seems to have a minor effect."
+  },
+  {
+    "session_id": "1266b133-13dc-411d-a81f-b29101984aa4",
+    "student_id": "student_066",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "climate change affects society."
+  },
+  {
+    "session_id": "15787c6c-7052-415f-9aa7-70efdc63a511",
+    "student_id": "student_067",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, artificial intelligence plays a critical role. Methodological considerations regarding artificial intelligence require institutional framework modifications. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "dbcabe0c-821c-4945-9716-165ae2b15dea",
+    "student_id": "student_067",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The socioeconomic ramifications of climate change exemplify systematic disparities."
+  },
+  {
+    "session_id": "01f71df0-d7e8-42e8-a68f-b1ce19c96f2b",
+    "student_id": "student_067",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "climate change affects society. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "416c815f-6125-4851-9215-1b7ce26c59f4",
+    "student_id": "student_067",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "artificial intelligence affects society."
+  },
+  {
+    "session_id": "bb1c40b8-0a83-40e2-9f7d-bc357ee8a5dc",
+    "student_id": "student_067",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think artificial intelligence is important. Although some argue otherwise, artificial intelligence is important because it fundamentally alters our perspective. Perhaps artificial intelligence seems to have a minor effect."
+  },
+  {
+    "session_id": "2ed20e6f-e35f-498e-bf7b-2349998fd0de",
+    "student_id": "student_068",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "quantum computing affects society."
+  },
+  {
+    "session_id": "b75f6d2c-ecaa-4a12-8452-e86477e4873f",
+    "student_id": "student_068",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think social psychology is important. I might suggest that social psychology could possibly be related."
+  },
+  {
+    "session_id": "0bb103b9-f611-42b4-9984-2f582a64d58b",
+    "student_id": "student_068",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "global economics affects society."
+  },
+  {
+    "session_id": "f04a2adc-8970-4561-91b9-ee393488171d",
+    "student_id": "student_068",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "e88376dc-df5c-4d82-8d89-4be9d604ae64",
+    "student_id": "student_068",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "We should study artificial intelligence more. It might be possible that artificial intelligence could influence the outcome."
+  },
+  {
+    "session_id": "86dd1081-f2cc-41a5-ae45-cb1f94850fb7",
+    "student_id": "student_069",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "7b4ee5db-9fde-422e-a155-0ba1ff1c3a81",
+    "student_id": "student_069",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "artificial intelligence affects society. Since the data indicates a clear trend, it is evident that artificial intelligence leads to broader implications. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "7d33c34e-2083-4746-ac2a-ba2d1eb2a93a",
+    "student_id": "student_069",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "We should study social psychology more. Perhaps social psychology seems to have a minor effect."
+  },
+  {
+    "session_id": "77cb7440-6e8c-41b3-8a7a-2de79371f222",
+    "student_id": "student_069",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "We should study global economics more."
+  },
+  {
+    "session_id": "643349b8-335c-4faa-a3f5-56f20ae22463",
+    "student_id": "student_069",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "quantum computing affects society. It might be possible that quantum computing could influence the outcome."
+  },
+  {
+    "session_id": "9f91ff8f-09ab-4047-b4f3-45d913355421",
+    "student_id": "student_070",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "climate change affects society. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "19817766-f223-47d9-8825-14ce59722350",
+    "student_id": "student_070",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "artificial intelligence affects society. It might be possible that artificial intelligence could influence the outcome."
+  },
+  {
+    "session_id": "4b5f9f45-bff6-4626-997f-e9045bdcd07c",
+    "student_id": "student_070",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "global economics affects society. If we consider the historical context, therefore, global economics plays a critical role."
+  },
+  {
+    "session_id": "9128cf78-3120-4e36-a9be-8904ed6ff9fd",
+    "student_id": "student_070",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think quantum computing is important. Since the data indicates a clear trend, it is evident that quantum computing leads to broader implications. Perhaps quantum computing seems to have a minor effect."
+  },
+  {
+    "session_id": "5b059c4f-cc38-4058-88e6-84de3f93a2d9",
+    "student_id": "student_070",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, climate change plays a critical role. Methodological considerations regarding climate change require institutional framework modifications. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "97ea67ff-e7b5-4de2-96d0-f4877fd2e60b",
+    "student_id": "student_071",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think climate change is important."
+  },
+  {
+    "session_id": "03cfc1d4-56a0-45dd-ad42-a2d62b0c2752",
+    "student_id": "student_071",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "We should study climate change more. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "fd993f30-a57b-479c-952e-1f71e54def7a",
+    "student_id": "student_071",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "social psychology affects society. Since the data indicates a clear trend, it is evident that social psychology leads to broader implications. It might be possible that social psychology could influence the outcome."
+  },
+  {
+    "session_id": "82774817-c919-490b-887a-80140e0f6459",
+    "student_id": "student_071",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think quantum computing is important. If we consider the historical context, therefore, quantum computing plays a critical role. I might suggest that quantum computing could possibly be related."
+  },
+  {
+    "session_id": "797c951f-e0c8-48e3-9a58-921ee8020c9f",
+    "student_id": "student_071",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think social psychology is important. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective. Perhaps social psychology seems to have a minor effect."
+  },
+  {
+    "session_id": "f53c288b-f94d-4c73-884b-8ee973ccab9a",
+    "student_id": "student_072",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, global economics plays a critical role. The socioeconomic ramifications of global economics exemplify systematic disparities. It might be possible that global economics could influence the outcome."
+  },
+  {
+    "session_id": "fc5d99a9-124a-498a-8b63-abb6ae442129",
+    "student_id": "student_072",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. The socioeconomic ramifications of climate change exemplify systematic disparities. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "37923c8d-4735-44b7-bad5-512d43923e2d",
+    "student_id": "student_072",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "Since the data indicates a clear trend, it is evident that quantum computing leads to broader implications. Methodological considerations regarding quantum computing require institutional framework modifications."
+  },
+  {
+    "session_id": "e6551c2b-c41d-4d03-9830-41f1d25ad582",
+    "student_id": "student_072",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think global economics is important. Since the data indicates a clear trend, it is evident that global economics leads to broader implications."
+  },
+  {
+    "session_id": "d6b7b6a9-cd7c-4cc8-80ed-daf839f4ece7",
+    "student_id": "student_072",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think artificial intelligence is important. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "6230d5ce-84af-4650-9d04-e60a0c8f54a5",
+    "student_id": "student_073",
+    "timestamp": "2026-05-27T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "social psychology affects society. Perhaps social psychology seems to have a minor effect."
+  },
+  {
+    "session_id": "4819c7dd-17b1-4a4c-a3d3-0caf0955d166",
+    "student_id": "student_073",
+    "timestamp": "2026-06-10T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "climate change affects society. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "6518ea3a-1ae3-4dea-bc17-ad4791d2fbb9",
+    "student_id": "student_073",
+    "timestamp": "2026-06-24T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "I think social psychology is important. I might suggest that social psychology could possibly be related."
+  },
+  {
+    "session_id": "b336f564-2685-4d9b-86fe-723b89daacc5",
+    "student_id": "student_073",
+    "timestamp": "2026-07-08T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, global economics is important because it fundamentally alters our perspective. Methodological considerations regarding global economics require institutional framework modifications."
+  },
+  {
+    "session_id": "3507a521-9c66-4641-a367-1b120503db33",
+    "student_id": "student_073",
+    "timestamp": "2026-07-22T09:30:49.254171",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, quantum computing plays a critical role. The conceptualization of quantum computing necessitates a paradigm shift."
+  },
+  {
+    "session_id": "2641eeaa-b7d4-4ad9-b79f-aa93c4ec947a",
+    "student_id": "student_074",
+    "timestamp": "2026-05-27T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "I think global economics is important. Although some argue otherwise, global economics is important because it fundamentally alters our perspective. I might suggest that global economics could possibly be related."
+  },
+  {
+    "session_id": "175a681c-8e6b-44aa-b16a-ea0c97b4f1ce",
+    "student_id": "student_074",
+    "timestamp": "2026-06-10T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "global economics affects society."
+  },
+  {
+    "session_id": "bf82989e-903e-4bd2-93dc-4804777b3889",
+    "student_id": "student_074",
+    "timestamp": "2026-06-24T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, quantum computing plays a critical role. The socioeconomic ramifications of quantum computing exemplify systematic disparities."
+  },
+  {
+    "session_id": "841afe22-b299-43a1-a08f-3c1286a16dda",
+    "student_id": "student_074",
+    "timestamp": "2026-07-08T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, global economics is important because it fundamentally alters our perspective. The conceptualization of global economics necessitates a paradigm shift. It might be possible that global economics could influence the outcome."
+  },
+  {
+    "session_id": "da193b5e-ec53-48d5-a411-26217cd7ef92",
+    "student_id": "student_074",
+    "timestamp": "2026-07-22T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "We should study quantum computing more. I might suggest that quantum computing could possibly be related."
+  },
+  {
+    "session_id": "1ecc86fb-7038-4f27-bd16-9972b8db3d4f",
+    "student_id": "student_075",
+    "timestamp": "2026-05-27T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, social psychology is important because it fundamentally alters our perspective. The conceptualization of social psychology necessitates a paradigm shift. It might be possible that social psychology could influence the outcome."
+  },
+  {
+    "session_id": "e691e5ae-2a53-4ce9-8945-6fa5498ddee0",
+    "student_id": "student_075",
+    "timestamp": "2026-06-10T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "We should study social psychology more."
+  },
+  {
+    "session_id": "6480189e-ed8f-44c2-9c73-a319cf965708",
+    "student_id": "student_075",
+    "timestamp": "2026-06-24T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "7f1cec03-20ff-4fbb-9e55-ac316f4cd769",
+    "student_id": "student_075",
+    "timestamp": "2026-07-08T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, social psychology plays a critical role. The socioeconomic ramifications of social psychology exemplify systematic disparities."
+  },
+  {
+    "session_id": "b5a639f0-1096-4a00-ae5d-03edc4caa977",
+    "student_id": "student_075",
+    "timestamp": "2026-07-22T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, global economics is important because it fundamentally alters our perspective. Methodological considerations regarding global economics require institutional framework modifications. Perhaps global economics seems to have a minor effect."
+  },
+  {
+    "session_id": "d590a0ef-3065-4192-88a6-82de8732ccff",
+    "student_id": "student_076",
+    "timestamp": "2026-05-27T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "We should study climate change more."
+  },
+  {
+    "session_id": "bd959539-b118-4a33-b655-e2188c048a6e",
+    "student_id": "student_076",
+    "timestamp": "2026-06-10T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. The conceptualization of climate change necessitates a paradigm shift. It might be possible that climate change could influence the outcome."
+  },
+  {
+    "session_id": "9533519d-cca7-460a-86a6-4c22947ce0f1",
+    "student_id": "student_076",
+    "timestamp": "2026-06-24T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "c3206106-912b-4411-bc11-3ba107b1e774",
+    "student_id": "student_076",
+    "timestamp": "2026-07-08T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "global economics affects society. It might be possible that global economics could influence the outcome."
+  },
+  {
+    "session_id": "befbd573-062f-49a8-8975-9befe3e576ed",
+    "student_id": "student_076",
+    "timestamp": "2026-07-22T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "I think quantum computing is important."
+  },
+  {
+    "session_id": "82b297f3-0c35-4cec-a575-4ea154ad32ec",
+    "student_id": "student_077",
+    "timestamp": "2026-05-27T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, artificial intelligence is important because it fundamentally alters our perspective. Methodological considerations regarding artificial intelligence require institutional framework modifications. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "443b467f-8085-4912-8a98-101c145e7b19",
+    "student_id": "student_077",
+    "timestamp": "2026-06-10T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "We should study social psychology more. Although some argue otherwise, social psychology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "e89b98b4-0d5e-4c5e-858f-33d2c9342399",
+    "student_id": "student_077",
+    "timestamp": "2026-06-24T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "We should study climate change more. Since the data indicates a clear trend, it is evident that climate change leads to broader implications. I might suggest that climate change could possibly be related."
+  },
+  {
+    "session_id": "64703124-cc64-4baa-8d9f-804b3080700f",
+    "student_id": "student_077",
+    "timestamp": "2026-07-08T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "We should study social psychology more. I might suggest that social psychology could possibly be related."
+  },
+  {
+    "session_id": "a2e91c7d-0e75-4b01-b9c7-25b6dca395f7",
+    "student_id": "student_077",
+    "timestamp": "2026-07-22T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "We should study artificial intelligence more. Although some argue otherwise, artificial intelligence is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "cedbc76b-3450-451d-a920-a649af5a8805",
+    "student_id": "student_078",
+    "timestamp": "2026-05-27T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "quantum computing affects society. Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective. It might be possible that quantum computing could influence the outcome."
+  },
+  {
+    "session_id": "05fb5ce8-0f02-4093-8c7f-1500451ed65b",
+    "student_id": "student_078",
+    "timestamp": "2026-06-10T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "global economics affects society. Although some argue otherwise, global economics is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "03bb5990-a711-4535-9312-9de2503cd22f",
+    "student_id": "student_078",
+    "timestamp": "2026-06-24T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "I think global economics is important. If we consider the historical context, therefore, global economics plays a critical role. It might be possible that global economics could influence the outcome."
+  },
+  {
+    "session_id": "4aa8925b-c5cf-46de-b30d-f015ef1a5e56",
+    "student_id": "student_078",
+    "timestamp": "2026-07-08T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "We should study social psychology more. Since the data indicates a clear trend, it is evident that social psychology leads to broader implications. It might be possible that social psychology could influence the outcome."
+  },
+  {
+    "session_id": "3006d5d3-9287-465e-91ab-c6cfcef02389",
+    "student_id": "student_078",
+    "timestamp": "2026-07-22T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "global economics affects society. Although some argue otherwise, global economics is important because it fundamentally alters our perspective. It might be possible that global economics could influence the outcome."
+  },
+  {
+    "session_id": "1eddc97d-28de-4383-95d6-96299a0c4340",
+    "student_id": "student_079",
+    "timestamp": "2026-05-27T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, global economics is important because it fundamentally alters our perspective. Methodological considerations regarding global economics require institutional framework modifications. It might be possible that global economics could influence the outcome."
+  },
+  {
+    "session_id": "75bbe65e-749b-4137-91d2-b33a7e755074",
+    "student_id": "student_079",
+    "timestamp": "2026-06-10T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "I think social psychology is important."
+  },
+  {
+    "session_id": "69563d78-d0c5-4b48-ae67-1c8ac388a2c2",
+    "student_id": "student_079",
+    "timestamp": "2026-06-24T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "I think social psychology is important."
+  },
+  {
+    "session_id": "9055e519-c0d7-460a-946e-878796101310",
+    "student_id": "student_079",
+    "timestamp": "2026-07-08T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "We should study global economics more. If we consider the historical context, therefore, global economics plays a critical role. It might be possible that global economics could influence the outcome."
+  },
+  {
+    "session_id": "35f67313-ac0f-4727-bd7b-f4153c205637",
+    "student_id": "student_079",
+    "timestamp": "2026-07-22T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "artificial intelligence affects society."
+  },
+  {
+    "session_id": "e63f6f10-c322-47c8-95c1-689b48bd1570",
+    "student_id": "student_080",
+    "timestamp": "2026-05-27T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, quantum computing plays a critical role. The conceptualization of quantum computing necessitates a paradigm shift."
+  },
+  {
+    "session_id": "e41f9f8e-8eb7-42e0-bf13-3037127c388c",
+    "student_id": "student_080",
+    "timestamp": "2026-06-10T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, global economics plays a critical role. The conceptualization of global economics necessitates a paradigm shift."
+  },
+  {
+    "session_id": "8a09ec39-7b27-410b-8527-0b1b597e4785",
+    "student_id": "student_080",
+    "timestamp": "2026-06-24T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "We should study global economics more."
+  },
+  {
+    "session_id": "af691bc0-74da-414c-8bf5-c47b0fadfa27",
+    "student_id": "student_080",
+    "timestamp": "2026-07-08T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, social psychology is important because it fundamentally alters our perspective. The socioeconomic ramifications of social psychology exemplify systematic disparities."
+  },
+  {
+    "session_id": "ab1aabb8-c6bf-4024-af35-8a4d358fd5ef",
+    "student_id": "student_080",
+    "timestamp": "2026-07-22T09:30:49.255174",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, social psychology plays a critical role. The conceptualization of social psychology necessitates a paradigm shift. It might be possible that social psychology could influence the outcome."
+  }
+]

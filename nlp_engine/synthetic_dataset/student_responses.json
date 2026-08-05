@@ -1,0 +1,2802 @@
+[
+  {
+    "session_id": "79a21d8b-bec4-46a4-aab6-6cd2541c7590",
+    "student_id": "student_001",
+    "timestamp": "2026-05-27T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "We should study machine learning more. I suppose machine learning could sort of matter in some contexts."
+  },
+  {
+    "session_id": "b141e656-42b3-4bbc-8eb6-804fa4054fba",
+    "student_id": "student_001",
+    "timestamp": "2026-06-10T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "artificial intelligence affects society. It could be that artificial intelligence might potentially alter things."
+  },
+  {
+    "session_id": "b121765f-c488-4f12-8063-56124d5feca8",
+    "student_id": "student_001",
+    "timestamp": "2026-06-24T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "climate change is something we should focus on. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "6b108818-8bcc-4ae5-a7e9-854e69e7fa1c",
+    "student_id": "student_001",
+    "timestamp": "2026-07-08T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "It is clear that urban planning is a big deal. While urban planning might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "b60cb132-1ff1-44a4-a051-cf0b2b584a66",
+    "student_id": "student_001",
+    "timestamp": "2026-07-22T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "If we consider the historical context, therefore, philosophy plays a critical role. The dialectical relationship between philosophy and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "47dde925-5044-423a-9184-62a88945ffa7",
+    "student_id": "student_002",
+    "timestamp": "2026-05-27T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "I really care about bioethics. I might suggest that bioethics could possibly be related."
+  },
+  {
+    "session_id": "af6d08f4-c76c-481d-a247-930568c1d893",
+    "student_id": "student_002",
+    "timestamp": "2026-06-10T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "I think machine learning is important. There is a chance that machine learning might be partially involved."
+  },
+  {
+    "session_id": "f0208a16-747d-4ecd-8b3b-5910f6fd18af",
+    "student_id": "student_002",
+    "timestamp": "2026-06-24T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "quantum computing is something we should focus on. Since the data indicates a clear trend, it is evident that quantum computing leads to broader implications."
+  },
+  {
+    "session_id": "c85e4e3c-fb75-4958-82f4-658bbc489054",
+    "student_id": "student_002",
+    "timestamp": "2026-07-08T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of sociology matters. Although some argue otherwise, sociology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "2ef50a8f-e8e5-42d2-9535-ece7e0f80334",
+    "student_id": "student_002",
+    "timestamp": "2026-07-22T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "While climate change might seem trivial initially, it ultimately shapes our shared understanding. Methodological considerations regarding climate change require institutional framework modifications."
+  },
+  {
+    "session_id": "3a2d4ef4-2d4f-455c-906f-0a564805ea8c",
+    "student_id": "student_003",
+    "timestamp": "2026-05-27T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "I think climate change is important. There is a chance that climate change might be partially involved."
+  },
+  {
+    "session_id": "6fe47b5a-e8bc-42c6-a9dd-eba231305cfe",
+    "student_id": "student_003",
+    "timestamp": "2026-06-10T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "I think machine learning is important. There is a chance that machine learning might be partially involved."
+  },
+  {
+    "session_id": "6fa2b279-9e08-4f38-a9bb-c72cb0f82437",
+    "student_id": "student_003",
+    "timestamp": "2026-06-24T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "urban planning affects society. While urban planning might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "c792bed0-9225-45cc-a67a-c47256b8a149",
+    "student_id": "student_003",
+    "timestamp": "2026-07-08T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "We should study social psychology more. Because of its wide reach, social psychology must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "189329de-b2b4-41f6-b4c1-46908588efc4",
+    "student_id": "student_003",
+    "timestamp": "2026-07-22T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Because of its wide reach, quantum computing must be carefully analyzed, hence its relevance. Theoretical frameworks surrounding quantum computing demonstrate profound epistemic consequences."
+  },
+  {
+    "session_id": "e059bd1c-8a18-4269-b508-663964d97bcd",
+    "student_id": "student_004",
+    "timestamp": "2026-05-27T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "I think philosophy is important. Maybe philosophy is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "8965f9dd-b04b-41a1-ad59-5c9235614438",
+    "student_id": "student_004",
+    "timestamp": "2026-06-10T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Many people care about machine learning. There is a chance that machine learning might be partially involved."
+  },
+  {
+    "session_id": "640b7968-4cee-49ab-8467-8b18c80df7f2",
+    "student_id": "student_004",
+    "timestamp": "2026-06-24T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "bioethics affects society. Because of its wide reach, bioethics must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "562b0b32-b78f-4f2c-9226-09a7d94bfb7c",
+    "student_id": "student_004",
+    "timestamp": "2026-07-08T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "It is clear that social psychology is a big deal. Even though there are detractors, social psychology remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "8aad5fb1-a4f0-4f4e-8665-2aa56552b1a7",
+    "student_id": "student_004",
+    "timestamp": "2026-07-22T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Given the recent developments, our understanding of quantum computing necessitates a deeper investigation. The dialectical relationship between quantum computing and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "5c608189-ab39-4f06-b128-acf661565688",
+    "student_id": "student_005",
+    "timestamp": "2026-05-27T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of philosophy matters. Maybe philosophy is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "f34d68d1-3f2d-4639-9b78-8ec60e7cff1b",
+    "student_id": "student_005",
+    "timestamp": "2026-06-10T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "global economics affects society. Maybe global economics is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "786d8319-6c16-4ba5-bfd8-447b7ccc74b1",
+    "student_id": "student_005",
+    "timestamp": "2026-06-24T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "I think machine learning is important. If we consider the historical context, therefore, machine learning plays a critical role."
+  },
+  {
+    "session_id": "f4471f99-bc74-4d83-98bb-b03102aa3813",
+    "student_id": "student_005",
+    "timestamp": "2026-07-08T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "artificial intelligence is something we should focus on. Given the recent developments, our understanding of artificial intelligence necessitates a deeper investigation."
+  },
+  {
+    "session_id": "7d75dc1b-29b4-4b2f-afe8-bf880f9e6226",
+    "student_id": "student_005",
+    "timestamp": "2026-07-22T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective. Institutionalization of quantum computing precipitates fundamental structural realignments."
+  },
+  {
+    "session_id": "7a466bcc-a49d-4548-98ac-9c9c12f055de",
+    "student_id": "student_006",
+    "timestamp": "2026-05-27T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "It is clear that bioethics is a big deal. I might suggest that bioethics could possibly be related."
+  },
+  {
+    "session_id": "661ce3bd-5642-4e86-b6e6-7117191e3983",
+    "student_id": "student_006",
+    "timestamp": "2026-06-10T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "urban planning is something we should focus on. Perhaps urban planning seems to have a minor effect."
+  },
+  {
+    "session_id": "d0d4dd0c-f309-4a76-86e4-74529001f0a5",
+    "student_id": "student_006",
+    "timestamp": "2026-06-24T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of philosophy matters. While philosophy might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "db815ab0-9933-4439-a5f2-c7b2056e7b75",
+    "student_id": "student_006",
+    "timestamp": "2026-07-08T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Many people care about climate change. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "b3c5bbc8-71b5-4b88-b276-23671b90ea4c",
+    "student_id": "student_006",
+    "timestamp": "2026-07-22T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Because of its wide reach, social psychology must be carefully analyzed, hence its relevance. The dialectical relationship between social psychology and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "444e26ce-b27e-4ef2-aadb-16b0f421a48e",
+    "student_id": "student_007",
+    "timestamp": "2026-05-27T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "I really care about quantum computing. Maybe quantum computing is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "be7b89ce-fef8-4249-a662-798fd2569a8d",
+    "student_id": "student_007",
+    "timestamp": "2026-06-10T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "It is clear that climate change is a big deal. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "31f8b14c-43f9-48cf-b3f5-37f7f0c36f8a",
+    "student_id": "student_007",
+    "timestamp": "2026-06-24T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Many people care about global economics. Because of its wide reach, global economics must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "d065e08c-7d07-42a7-8e77-ee6bc73ca956",
+    "student_id": "student_007",
+    "timestamp": "2026-07-08T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "sociology is something we should focus on. While sociology might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "7e7b05b7-1ea4-4866-96f9-16f5621f2c85",
+    "student_id": "student_007",
+    "timestamp": "2026-07-22T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Although some argue otherwise, urban planning is important because it fundamentally alters our perspective. Methodological considerations regarding urban planning require institutional framework modifications."
+  },
+  {
+    "session_id": "d2b7e17b-f104-4e53-9c5e-84e41170f0c2",
+    "student_id": "student_008",
+    "timestamp": "2026-05-27T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Many people care about urban planning. I suppose urban planning could sort of matter in some contexts."
+  },
+  {
+    "session_id": "bcc8a1ba-8649-48a9-bf66-7f8c3e8fcc6b",
+    "student_id": "student_008",
+    "timestamp": "2026-06-10T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "I think climate change is important. Maybe climate change is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "c99bb72c-7e56-42ef-95f4-210ffe272045",
+    "student_id": "student_008",
+    "timestamp": "2026-06-24T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "We should study social psychology more. Because of its wide reach, social psychology must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "3de16803-edad-4754-a43e-15c169555f13",
+    "student_id": "student_008",
+    "timestamp": "2026-07-08T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of artificial intelligence matters. Given the recent developments, our understanding of artificial intelligence necessitates a deeper investigation."
+  },
+  {
+    "session_id": "9583eae2-2a9e-4009-99f6-c90f24c91673",
+    "student_id": "student_008",
+    "timestamp": "2026-07-22T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "If we consider the historical context, therefore, machine learning plays a critical role. Theoretical frameworks surrounding machine learning demonstrate profound epistemic consequences."
+  },
+  {
+    "session_id": "e2764742-5e2d-4c20-987b-2e4eaea63e3d",
+    "student_id": "student_009",
+    "timestamp": "2026-05-27T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Many people care about global economics. It could be that global economics might potentially alter things."
+  },
+  {
+    "session_id": "90fa75d3-d4d9-4371-8e52-3e907cf1062e",
+    "student_id": "student_009",
+    "timestamp": "2026-06-10T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "It is clear that bioethics is a big deal. I might suggest that bioethics could possibly be related."
+  },
+  {
+    "session_id": "3887301e-490e-42ce-bf39-bd884476fd2b",
+    "student_id": "student_009",
+    "timestamp": "2026-06-24T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "I think urban planning is important. Even though there are detractors, urban planning remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "b1e5e9b4-f64f-4738-992c-1f8d305bbfde",
+    "student_id": "student_009",
+    "timestamp": "2026-07-08T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "I think sociology is important. If we consider the historical context, therefore, sociology plays a critical role."
+  },
+  {
+    "session_id": "babeea05-d133-4747-810b-aea056c6a637",
+    "student_id": "student_009",
+    "timestamp": "2026-07-22T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Even though there are detractors, philosophy remains central to the discourse as it impacts multiple domains. The socioeconomic ramifications of philosophy exemplify systematic disparities."
+  },
+  {
+    "session_id": "dc094d8d-3e4e-47d3-a38b-7f447edb9f86",
+    "student_id": "student_010",
+    "timestamp": "2026-05-27T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "I think bioethics is important. Maybe bioethics is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "ee6462ec-2879-4f4f-b90a-6ae78419f3db",
+    "student_id": "student_010",
+    "timestamp": "2026-06-10T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "philosophy affects society. I suppose philosophy could sort of matter in some contexts."
+  },
+  {
+    "session_id": "b5e89288-17a8-4fa9-bd55-7d134196292b",
+    "student_id": "student_010",
+    "timestamp": "2026-06-24T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "quantum computing is something we should focus on. While quantum computing might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "7ba351f3-43f3-456d-894b-1f77411e5595",
+    "student_id": "student_010",
+    "timestamp": "2026-07-08T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Many people care about sociology. While sociology might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "2cef3bea-b90f-4501-b4d2-aaabc1cceb92",
+    "student_id": "student_010",
+    "timestamp": "2026-07-22T10:31:33.928547",
+    "archetype_label": "steady_improver",
+    "text": "Since the data indicates a clear trend, it is evident that machine learning leads to broader implications. The socioeconomic ramifications of machine learning exemplify systematic disparities."
+  },
+  {
+    "session_id": "397e0d7f-ce77-46ed-9aae-40dba6aed833",
+    "student_id": "student_011",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "I really care about artificial intelligence. Maybe artificial intelligence is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "d8c29e2f-0451-4ea7-96a1-fe703a4cbd22",
+    "student_id": "student_011",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Many people care about global economics. I suppose global economics could sort of matter in some contexts."
+  },
+  {
+    "session_id": "6490b30c-bb07-4858-ac83-9645b66bcfc0",
+    "student_id": "student_011",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of machine learning matters. If we consider the historical context, therefore, machine learning plays a critical role."
+  },
+  {
+    "session_id": "a28cae4e-36ee-447d-bdf8-3dd1e9bdc2db",
+    "student_id": "student_011",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of bioethics matters. Because of its wide reach, bioethics must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "da55905d-b6e0-4889-9495-4d6efe3d0579",
+    "student_id": "student_011",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Even though there are detractors, quantum computing remains central to the discourse as it impacts multiple domains. The socioeconomic ramifications of quantum computing exemplify systematic disparities."
+  },
+  {
+    "session_id": "b7b8aa16-02d4-4002-b894-dcc46e1573be",
+    "student_id": "student_012",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "It is clear that sociology is a big deal. There is a chance that sociology might be partially involved."
+  },
+  {
+    "session_id": "b96661e1-8007-4226-806d-ec3f771f555d",
+    "student_id": "student_012",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "It is clear that bioethics is a big deal. It could be that bioethics might potentially alter things."
+  },
+  {
+    "session_id": "1f672be2-88b7-4e93-a2b7-976a6c1b4a79",
+    "student_id": "student_012",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "We should study climate change more. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "5a0e8571-6dc6-4a7d-adc3-fec1a89200e9",
+    "student_id": "student_012",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Many people care about social psychology. While social psychology might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "1e7fed84-1ac0-4993-821d-43a35800b102",
+    "student_id": "student_012",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Since the data indicates a clear trend, it is evident that global economics leads to broader implications. The conceptualization of global economics necessitates a paradigm shift."
+  },
+  {
+    "session_id": "357f1499-671c-4d23-9505-837ed2e7335c",
+    "student_id": "student_013",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Many people care about social psychology. There is a chance that social psychology might be partially involved."
+  },
+  {
+    "session_id": "3d95b99f-7ab2-49d3-b5bf-dceb698b4cf1",
+    "student_id": "student_013",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "We should study climate change more. I suppose climate change could sort of matter in some contexts."
+  },
+  {
+    "session_id": "673599db-2066-41ed-9c54-011074f586a7",
+    "student_id": "student_013",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Many people care about philosophy. Since the data indicates a clear trend, it is evident that philosophy leads to broader implications."
+  },
+  {
+    "session_id": "2551dff9-806c-4cfc-9313-07d111356088",
+    "student_id": "student_013",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of artificial intelligence matters. Even though there are detractors, artificial intelligence remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "b0fac935-f990-46a5-a68e-f3b4ebf37c77",
+    "student_id": "student_013",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Even though there are detractors, urban planning remains central to the discourse as it impacts multiple domains. The dialectical relationship between urban planning and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "deb182a8-3d93-4ee0-89fd-5d2744689a63",
+    "student_id": "student_014",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "social psychology affects society. Maybe social psychology is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "7bd9b8c0-1366-436b-9eb7-1c0b162df4ed",
+    "student_id": "student_014",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "I really care about urban planning. There is a chance that urban planning might be partially involved."
+  },
+  {
+    "session_id": "d9cc4195-1d62-42f3-b22d-d58a9b9973f5",
+    "student_id": "student_014",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "I think machine learning is important. Although some argue otherwise, machine learning is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "868421bc-516c-4cda-a7a8-c6d5ff7a68d3",
+    "student_id": "student_014",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of bioethics matters. Even though there are detractors, bioethics remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "d7c2a303-fca4-4844-b777-c8fa24d688e7",
+    "student_id": "student_014",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "While global economics might seem trivial initially, it ultimately shapes our shared understanding. Ontological assumptions about global economics inherently constrain the epistemological boundaries."
+  },
+  {
+    "session_id": "0322117d-4bef-493c-bd4f-9622cb5fa31c",
+    "student_id": "student_015",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "We should study sociology more. Perhaps sociology seems to have a minor effect."
+  },
+  {
+    "session_id": "5ce9118e-a3b3-4c72-b600-e8e5aacdd0a6",
+    "student_id": "student_015",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "bioethics is something we should focus on. Maybe bioethics is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "be43776f-498f-496d-8584-a08e91762014",
+    "student_id": "student_015",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "philosophy affects society. Since the data indicates a clear trend, it is evident that philosophy leads to broader implications."
+  },
+  {
+    "session_id": "81a85ed9-8a18-4bf2-b94d-56b4621301b4",
+    "student_id": "student_015",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "quantum computing is something we should focus on. Even though there are detractors, quantum computing remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "c1b52fd5-f5c3-466f-8e8b-a6aa62ecef05",
+    "student_id": "student_015",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Given the recent developments, our understanding of urban planning necessitates a deeper investigation. The dialectical relationship between urban planning and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "f157f47e-a34b-45db-884c-6fecf95dcc0a",
+    "student_id": "student_016",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "We should study sociology more. It might be possible that sociology could influence the outcome."
+  },
+  {
+    "session_id": "94e8931a-e733-46ff-9de7-1c40779e018e",
+    "student_id": "student_016",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "It is clear that urban planning is a big deal. There is a chance that urban planning might be partially involved."
+  },
+  {
+    "session_id": "f3449332-6f9d-4b57-81ca-ede917ed98f4",
+    "student_id": "student_016",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of climate change matters. Given the recent developments, our understanding of climate change necessitates a deeper investigation."
+  },
+  {
+    "session_id": "681fe8cd-f461-4c36-af11-bb33c53559ee",
+    "student_id": "student_016",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "We should study quantum computing more. Even though there are detractors, quantum computing remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "47ac5228-a3f7-4d25-9a41-6621e632b1e0",
+    "student_id": "student_016",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Since the data indicates a clear trend, it is evident that artificial intelligence leads to broader implications. Ontological assumptions about artificial intelligence inherently constrain the epistemological boundaries."
+  },
+  {
+    "session_id": "2806f86b-7383-40a0-b1b3-6d4ea344cdc2",
+    "student_id": "student_017",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "I think quantum computing is important. I suppose quantum computing could sort of matter in some contexts."
+  },
+  {
+    "session_id": "2caeea4e-dd0a-4eb4-abba-185ea9662c40",
+    "student_id": "student_017",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of sociology matters. It might be possible that sociology could influence the outcome."
+  },
+  {
+    "session_id": "5f166849-be31-4510-9190-67ef3f7e6208",
+    "student_id": "student_017",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "machine learning is something we should focus on. While machine learning might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "e372c515-0f00-44bf-85c5-71c1a8f05a2a",
+    "student_id": "student_017",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "philosophy affects society. Although some argue otherwise, philosophy is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "a4a5d474-b32f-42d0-8dc0-57a0e5581c90",
+    "student_id": "student_017",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Because of its wide reach, global economics must be carefully analyzed, hence its relevance. Institutionalization of global economics precipitates fundamental structural realignments."
+  },
+  {
+    "session_id": "453654e0-27db-4279-ae37-69e063733a77",
+    "student_id": "student_018",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "It is clear that philosophy is a big deal. Maybe philosophy is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "bc6a8c52-91fe-4e5e-93f3-bd011882e870",
+    "student_id": "student_018",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "climate change affects society. There is a chance that climate change might be partially involved."
+  },
+  {
+    "session_id": "1fa0dcac-92da-464b-9366-ee2aa2e1dcf3",
+    "student_id": "student_018",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of machine learning matters. Since the data indicates a clear trend, it is evident that machine learning leads to broader implications."
+  },
+  {
+    "session_id": "09bc5ef6-87ae-478a-84a7-cc009e4689a4",
+    "student_id": "student_018",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Many people care about bioethics. Given the recent developments, our understanding of bioethics necessitates a deeper investigation."
+  },
+  {
+    "session_id": "9cee1e96-e2ee-451e-84ed-eacd6f365b2a",
+    "student_id": "student_018",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Although some argue otherwise, global economics is important because it fundamentally alters our perspective. The socioeconomic ramifications of global economics exemplify systematic disparities."
+  },
+  {
+    "session_id": "fee5c607-c631-406b-a2e1-20fe331206b8",
+    "student_id": "student_019",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "We should study philosophy more. I might suggest that philosophy could possibly be related."
+  },
+  {
+    "session_id": "3aadd4b3-e649-421e-a777-6eb1b79ce2f1",
+    "student_id": "student_019",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Many people care about social psychology. I suppose social psychology could sort of matter in some contexts."
+  },
+  {
+    "session_id": "2feb13c0-c06f-465c-a3b0-99dd7bd02435",
+    "student_id": "student_019",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "We should study urban planning more. Because of its wide reach, urban planning must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "8d4e1c9e-72f9-40bd-a592-545e685ec609",
+    "student_id": "student_019",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "artificial intelligence is something we should focus on. Even though there are detractors, artificial intelligence remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "b6ab0033-2e79-44b1-b279-c33b85035f40",
+    "student_id": "student_019",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "If we consider the historical context, therefore, global economics plays a critical role. The socioeconomic ramifications of global economics exemplify systematic disparities."
+  },
+  {
+    "session_id": "8235d2c8-5c37-4c88-8704-2ba06ed3fcfc",
+    "student_id": "student_020",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of global economics matters. I suppose global economics could sort of matter in some contexts."
+  },
+  {
+    "session_id": "c42d2b99-e579-4c5f-beda-8b5b8bda5345",
+    "student_id": "student_020",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "We should study quantum computing more. Maybe quantum computing is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "73dd821c-0be7-4205-94a4-55e4d1e7f021",
+    "student_id": "student_020",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "The issue of philosophy matters. Given the recent developments, our understanding of philosophy necessitates a deeper investigation."
+  },
+  {
+    "session_id": "da7e7452-8c87-47cf-9d00-624f3879a7dc",
+    "student_id": "student_020",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "We should study urban planning more. Because of its wide reach, urban planning must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "6fb8077f-bc9b-461d-8318-600ed20e9331",
+    "student_id": "student_020",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "steady_improver",
+    "text": "Because of its wide reach, artificial intelligence must be carefully analyzed, hence its relevance. Theoretical frameworks surrounding artificial intelligence demonstrate profound epistemic consequences."
+  },
+  {
+    "session_id": "5ebcf946-5d6c-4d98-bbdf-881140e98468",
+    "student_id": "student_021",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "social psychology is something we should focus on. Even though there are detractors, social psychology remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "4046bfd0-4a2c-43ba-bfc0-62eabc161156",
+    "student_id": "student_021",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "I think social psychology is important. Since the data indicates a clear trend, it is evident that social psychology leads to broader implications."
+  },
+  {
+    "session_id": "9ea79f30-41f4-4cab-8e0e-7148e164ac60",
+    "student_id": "student_021",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "social psychology is something we should focus on. If we consider the historical context, therefore, social psychology plays a critical role."
+  },
+  {
+    "session_id": "5f67822c-be10-4dcf-8419-78a886c6d55b",
+    "student_id": "student_021",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "I really care about social psychology. Because of its wide reach, social psychology must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "070688e9-bf33-491e-8833-04ece63ea4e7",
+    "student_id": "student_021",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "Many people care about social psychology. If we consider the historical context, therefore, social psychology plays a critical role."
+  },
+  {
+    "session_id": "9b02e0e5-1f61-4400-bc08-0d1a67c04b02",
+    "student_id": "student_022",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "global economics is something we should focus on. Although some argue otherwise, global economics is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "658a1266-1ddb-47a9-92ab-cf0bf74f4069",
+    "student_id": "student_022",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "It is clear that global economics is a big deal. Given the recent developments, our understanding of global economics necessitates a deeper investigation."
+  },
+  {
+    "session_id": "b7274cad-ffff-466c-bbba-e6415668aebc",
+    "student_id": "student_022",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "It is clear that global economics is a big deal. Because of its wide reach, global economics must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "2b60888d-4ac7-4e4e-b6e4-265ca53156d5",
+    "student_id": "student_022",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "I think global economics is important. Because of its wide reach, global economics must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "92dddb53-d929-4c34-88f7-d20b3567fdd1",
+    "student_id": "student_022",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "global economics affects society. Given the recent developments, our understanding of global economics necessitates a deeper investigation."
+  },
+  {
+    "session_id": "a2aaac17-bba1-4381-9868-4f5460279f64",
+    "student_id": "student_023",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "The issue of bioethics matters. Although some argue otherwise, bioethics is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "e1a895e5-438b-4562-9f70-266b770e5f16",
+    "student_id": "student_023",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "I really care about bioethics. Even though there are detractors, bioethics remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "e301a64c-815e-4f43-9978-fbc65131832d",
+    "student_id": "student_023",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "I really care about bioethics. Since the data indicates a clear trend, it is evident that bioethics leads to broader implications."
+  },
+  {
+    "session_id": "2c8936a2-a5d8-49a4-bb9d-af96c3bd0e2c",
+    "student_id": "student_023",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "Many people care about bioethics. Given the recent developments, our understanding of bioethics necessitates a deeper investigation."
+  },
+  {
+    "session_id": "04366a0d-dea3-40cb-b801-1affe2d370f2",
+    "student_id": "student_023",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "I think bioethics is important. If we consider the historical context, therefore, bioethics plays a critical role."
+  },
+  {
+    "session_id": "f91a90f9-18ce-4711-a950-2f5b7df821bf",
+    "student_id": "student_024",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "quantum computing affects society. Because of its wide reach, quantum computing must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "df004868-89cf-4f29-a368-e275b1ee12da",
+    "student_id": "student_024",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "quantum computing affects society. While quantum computing might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "a07978b9-7ca6-4646-915c-dc2fc8fc7dd4",
+    "student_id": "student_024",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "I think quantum computing is important. While quantum computing might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "f675409f-cb19-408d-8179-815eabc2b05c",
+    "student_id": "student_024",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "It is clear that quantum computing is a big deal. Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "394b3dd3-4e57-400b-a7dd-acd8039f95d0",
+    "student_id": "student_024",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "I really care about quantum computing. If we consider the historical context, therefore, quantum computing plays a critical role."
+  },
+  {
+    "session_id": "bce03d1e-16f8-4b31-bc44-60a0b703830b",
+    "student_id": "student_025",
+    "timestamp": "2026-05-27T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "It is clear that bioethics is a big deal. Although some argue otherwise, bioethics is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "8419d23d-7eb1-4943-83fe-aaed0be03539",
+    "student_id": "student_025",
+    "timestamp": "2026-06-10T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "Many people care about bioethics. Since the data indicates a clear trend, it is evident that bioethics leads to broader implications."
+  },
+  {
+    "session_id": "9387c89f-a232-4340-8048-759ce13160b9",
+    "student_id": "student_025",
+    "timestamp": "2026-06-24T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "The issue of bioethics matters. Although some argue otherwise, bioethics is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "52dc4592-e034-4943-a517-8a2a6361b2e4",
+    "student_id": "student_025",
+    "timestamp": "2026-07-08T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "I think bioethics is important. Although some argue otherwise, bioethics is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "70186712-d05c-4abc-9eeb-bcaac7069452",
+    "student_id": "student_025",
+    "timestamp": "2026-07-22T10:31:33.929547",
+    "archetype_label": "plateauing",
+    "text": "We should study bioethics more. If we consider the historical context, therefore, bioethics plays a critical role."
+  },
+  {
+    "session_id": "c9af9210-bb39-4b70-adaa-4040ba1aa017",
+    "student_id": "student_026",
+    "timestamp": "2026-05-27T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "urban planning affects society. Although some argue otherwise, urban planning is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "897904c0-4345-445c-915e-e4f881d3a032",
+    "student_id": "student_026",
+    "timestamp": "2026-06-10T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "We should study urban planning more. While urban planning might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "4fcd2822-f0b0-4129-8240-54c083fbab16",
+    "student_id": "student_026",
+    "timestamp": "2026-06-24T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "It is clear that urban planning is a big deal. Even though there are detractors, urban planning remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "510fa1e7-42af-460f-b33d-ae59a7cfeba8",
+    "student_id": "student_026",
+    "timestamp": "2026-07-08T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I really care about urban planning. If we consider the historical context, therefore, urban planning plays a critical role."
+  },
+  {
+    "session_id": "6a014da1-4d44-4f8e-bece-a4079d5a6ad4",
+    "student_id": "student_026",
+    "timestamp": "2026-07-22T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "We should study urban planning more. If we consider the historical context, therefore, urban planning plays a critical role."
+  },
+  {
+    "session_id": "43be0036-0a47-4576-a335-f087c3f7d69a",
+    "student_id": "student_027",
+    "timestamp": "2026-05-27T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "We should study urban planning more. Given the recent developments, our understanding of urban planning necessitates a deeper investigation."
+  },
+  {
+    "session_id": "693f6f24-248b-444c-80b6-c791bc260408",
+    "student_id": "student_027",
+    "timestamp": "2026-06-10T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "The issue of urban planning matters. While urban planning might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "a57f26af-f3a3-4d6d-a0b7-3252d9aae1b0",
+    "student_id": "student_027",
+    "timestamp": "2026-06-24T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I think urban planning is important. Even though there are detractors, urban planning remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "bccec3a6-96d8-465e-a0ea-9150b07848b9",
+    "student_id": "student_027",
+    "timestamp": "2026-07-08T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "Many people care about urban planning. While urban planning might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "1c3deafd-d171-465d-8cff-84ab84d9d27c",
+    "student_id": "student_027",
+    "timestamp": "2026-07-22T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "urban planning is something we should focus on. Even though there are detractors, urban planning remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "88222c31-a5dc-4c2f-b312-30ecbbeedbeb",
+    "student_id": "student_028",
+    "timestamp": "2026-05-27T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "Many people care about climate change. While climate change might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "4dc1be96-6f89-452d-acaa-4e0c5e1bf973",
+    "student_id": "student_028",
+    "timestamp": "2026-06-10T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "It is clear that climate change is a big deal. Since the data indicates a clear trend, it is evident that climate change leads to broader implications."
+  },
+  {
+    "session_id": "4c09edcf-989c-4d82-b3ee-4d51c47e068c",
+    "student_id": "student_028",
+    "timestamp": "2026-06-24T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "climate change affects society. Given the recent developments, our understanding of climate change necessitates a deeper investigation."
+  },
+  {
+    "session_id": "d376414a-53a4-443a-8379-e03c5107c79d",
+    "student_id": "student_028",
+    "timestamp": "2026-07-08T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. While climate change might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "1584194f-20a4-47d0-8938-4510b47ddd41",
+    "student_id": "student_028",
+    "timestamp": "2026-07-22T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I think climate change is important. While climate change might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "768c7609-d512-48e0-8f45-e9b8f0ad13c2",
+    "student_id": "student_029",
+    "timestamp": "2026-05-27T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "The issue of philosophy matters. Even though there are detractors, philosophy remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "748ac941-6dc7-4ab6-9fe6-ac4d3006c833",
+    "student_id": "student_029",
+    "timestamp": "2026-06-10T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "It is clear that philosophy is a big deal. Because of its wide reach, philosophy must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "ffe0edd5-2317-42c7-b5eb-4851a849dca5",
+    "student_id": "student_029",
+    "timestamp": "2026-06-24T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "The issue of philosophy matters. Although some argue otherwise, philosophy is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "03139760-91d8-4bfb-bce2-8ac0d864b7c6",
+    "student_id": "student_029",
+    "timestamp": "2026-07-08T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "philosophy is something we should focus on. While philosophy might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "f4a6be31-7f5e-4715-af27-283aadeb90f2",
+    "student_id": "student_029",
+    "timestamp": "2026-07-22T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I really care about philosophy. While philosophy might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "c236274a-8fcc-4861-b005-2eca0694421b",
+    "student_id": "student_030",
+    "timestamp": "2026-05-27T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "artificial intelligence affects society. Because of its wide reach, artificial intelligence must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "11b04ec4-3e57-4c0c-8243-3b1ab8b5a3e4",
+    "student_id": "student_030",
+    "timestamp": "2026-06-10T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "artificial intelligence affects society. Even though there are detractors, artificial intelligence remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "9855b99b-9723-4c3f-bbf9-3fb3554a9697",
+    "student_id": "student_030",
+    "timestamp": "2026-06-24T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "Many people care about artificial intelligence. Given the recent developments, our understanding of artificial intelligence necessitates a deeper investigation."
+  },
+  {
+    "session_id": "cfb6acee-ab38-4cf0-9c41-9fba33d9f420",
+    "student_id": "student_030",
+    "timestamp": "2026-07-08T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "It is clear that artificial intelligence is a big deal. Given the recent developments, our understanding of artificial intelligence necessitates a deeper investigation."
+  },
+  {
+    "session_id": "c998ab4e-bff5-43e0-807f-76572e492083",
+    "student_id": "student_030",
+    "timestamp": "2026-07-22T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I think artificial intelligence is important. Because of its wide reach, artificial intelligence must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "69f21778-331d-47cc-9a0c-f2935364bfe1",
+    "student_id": "student_031",
+    "timestamp": "2026-05-27T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I really care about quantum computing. If we consider the historical context, therefore, quantum computing plays a critical role."
+  },
+  {
+    "session_id": "aee9a2da-62b3-4c60-8a7d-5f00e6c34468",
+    "student_id": "student_031",
+    "timestamp": "2026-06-10T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "It is clear that quantum computing is a big deal. Because of its wide reach, quantum computing must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "a006af1d-aae2-4111-9d06-3f44b45b0cad",
+    "student_id": "student_031",
+    "timestamp": "2026-06-24T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "The issue of quantum computing matters. Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "2445b97d-deaf-4f69-b42f-213573bcf224",
+    "student_id": "student_031",
+    "timestamp": "2026-07-08T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "quantum computing affects society. Given the recent developments, our understanding of quantum computing necessitates a deeper investigation."
+  },
+  {
+    "session_id": "d65f3c70-55b5-4463-9a6f-4f2637ed3fd7",
+    "student_id": "student_031",
+    "timestamp": "2026-07-22T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "quantum computing affects society. Given the recent developments, our understanding of quantum computing necessitates a deeper investigation."
+  },
+  {
+    "session_id": "c62c1c57-1821-4c3d-b138-3ec61644f1c6",
+    "student_id": "student_032",
+    "timestamp": "2026-05-27T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "The issue of bioethics matters. If we consider the historical context, therefore, bioethics plays a critical role."
+  },
+  {
+    "session_id": "073d27b4-2699-46d8-a195-485c84e5e12c",
+    "student_id": "student_032",
+    "timestamp": "2026-06-10T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "bioethics is something we should focus on. While bioethics might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "8e6f079b-f040-4f4d-9eb7-9b2c2b5ff20b",
+    "student_id": "student_032",
+    "timestamp": "2026-06-24T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "We should study bioethics more. If we consider the historical context, therefore, bioethics plays a critical role."
+  },
+  {
+    "session_id": "539d33aa-8877-4001-881f-576043e5354c",
+    "student_id": "student_032",
+    "timestamp": "2026-07-08T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "It is clear that bioethics is a big deal. Even though there are detractors, bioethics remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "4d8242e1-0c3a-4401-aa7b-b2b7ad68be8d",
+    "student_id": "student_032",
+    "timestamp": "2026-07-22T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "Many people care about bioethics. While bioethics might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "7c8dacc3-002b-41f3-a9e2-ff988821872d",
+    "student_id": "student_033",
+    "timestamp": "2026-05-27T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "We should study artificial intelligence more. Although some argue otherwise, artificial intelligence is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "5dc47220-dd2d-4960-b77f-ede3e841637b",
+    "student_id": "student_033",
+    "timestamp": "2026-06-10T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "Many people care about artificial intelligence. Because of its wide reach, artificial intelligence must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "a6ac1e1f-f71c-475b-83dc-5a96e1683814",
+    "student_id": "student_033",
+    "timestamp": "2026-06-24T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "Many people care about artificial intelligence. If we consider the historical context, therefore, artificial intelligence plays a critical role."
+  },
+  {
+    "session_id": "1feac304-98a5-48fb-840b-2ac3cec65f3c",
+    "student_id": "student_033",
+    "timestamp": "2026-07-08T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I really care about artificial intelligence. Although some argue otherwise, artificial intelligence is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "74535861-da8b-40d5-ac38-f9b83c55b2d1",
+    "student_id": "student_033",
+    "timestamp": "2026-07-22T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "artificial intelligence affects society. Although some argue otherwise, artificial intelligence is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "ff4b3838-caee-4777-99e5-4d10d21a00dd",
+    "student_id": "student_034",
+    "timestamp": "2026-05-27T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "We should study global economics more. Even though there are detractors, global economics remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "01cc7297-88de-4d4d-baf2-2d46ca0776dc",
+    "student_id": "student_034",
+    "timestamp": "2026-06-10T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "The issue of global economics matters. If we consider the historical context, therefore, global economics plays a critical role."
+  },
+  {
+    "session_id": "90c2a372-b6bf-4bff-8da5-c9048c4d43ee",
+    "student_id": "student_034",
+    "timestamp": "2026-06-24T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "Many people care about global economics. Because of its wide reach, global economics must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "88907c63-a3d0-480b-8eb2-230311e260ee",
+    "student_id": "student_034",
+    "timestamp": "2026-07-08T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I really care about global economics. Because of its wide reach, global economics must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "c9dc671d-ffaa-48df-a5c4-bb5489797ce9",
+    "student_id": "student_034",
+    "timestamp": "2026-07-22T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I think global economics is important. Because of its wide reach, global economics must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "11d9e923-756a-4050-9a02-cb5ee9beb726",
+    "student_id": "student_035",
+    "timestamp": "2026-05-27T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I really care about quantum computing. Because of its wide reach, quantum computing must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "05646853-d188-4e11-9ea4-e1ff2ea749ea",
+    "student_id": "student_035",
+    "timestamp": "2026-06-10T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "Many people care about quantum computing. If we consider the historical context, therefore, quantum computing plays a critical role."
+  },
+  {
+    "session_id": "dc10b119-b724-4898-a0e2-6e2de10cc428",
+    "student_id": "student_035",
+    "timestamp": "2026-06-24T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "quantum computing is something we should focus on. Because of its wide reach, quantum computing must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "7e58010c-9002-408a-9564-a95b93d38269",
+    "student_id": "student_035",
+    "timestamp": "2026-07-08T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "The issue of quantum computing matters. While quantum computing might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "46ae6f44-7681-419c-bc14-e44ef02c7182",
+    "student_id": "student_035",
+    "timestamp": "2026-07-22T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "The issue of quantum computing matters. Because of its wide reach, quantum computing must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "75283f9d-c6d8-46c1-b1f7-f47b6f9dddc3",
+    "student_id": "student_036",
+    "timestamp": "2026-05-27T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "Many people care about urban planning. Even though there are detractors, urban planning remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "52bf7299-bdac-4de0-b13b-979bf63052e9",
+    "student_id": "student_036",
+    "timestamp": "2026-06-10T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "urban planning is something we should focus on. Since the data indicates a clear trend, it is evident that urban planning leads to broader implications."
+  },
+  {
+    "session_id": "3b592bc7-1402-414c-a7e7-2158bba24c39",
+    "student_id": "student_036",
+    "timestamp": "2026-06-24T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "urban planning affects society. While urban planning might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "5233e808-1fda-4503-87ad-57b5e311242c",
+    "student_id": "student_036",
+    "timestamp": "2026-07-08T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "urban planning affects society. If we consider the historical context, therefore, urban planning plays a critical role."
+  },
+  {
+    "session_id": "eb9a0511-0243-403e-880a-5ca5e4525c08",
+    "student_id": "student_036",
+    "timestamp": "2026-07-22T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "The issue of urban planning matters. Given the recent developments, our understanding of urban planning necessitates a deeper investigation."
+  },
+  {
+    "session_id": "c1db735e-ac9a-445b-8164-8c4c87cb932e",
+    "student_id": "student_037",
+    "timestamp": "2026-05-27T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "It is clear that quantum computing is a big deal. While quantum computing might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "27663d2f-2e85-45f6-8b79-c7ee3415f2fe",
+    "student_id": "student_037",
+    "timestamp": "2026-06-10T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "We should study quantum computing more. Since the data indicates a clear trend, it is evident that quantum computing leads to broader implications."
+  },
+  {
+    "session_id": "bf5b2a54-c7e0-4691-bb99-e1e153af2de6",
+    "student_id": "student_037",
+    "timestamp": "2026-06-24T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I think quantum computing is important. Even though there are detractors, quantum computing remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "aa46024c-b91e-4ed1-aa4c-96a56193080e",
+    "student_id": "student_037",
+    "timestamp": "2026-07-08T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I think quantum computing is important. Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "ba6bd397-5388-4225-82fd-cfe12466480b",
+    "student_id": "student_037",
+    "timestamp": "2026-07-22T10:31:33.930544",
+    "archetype_label": "plateauing",
+    "text": "I really care about quantum computing. Because of its wide reach, quantum computing must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "8cab87b8-88f7-4f60-9ea0-5a2abc949aa2",
+    "student_id": "student_038",
+    "timestamp": "2026-05-27T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "We should study urban planning more. While urban planning might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "93045730-48a2-4771-a161-2026cfc5c208",
+    "student_id": "student_038",
+    "timestamp": "2026-06-10T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "I really care about urban planning. Since the data indicates a clear trend, it is evident that urban planning leads to broader implications."
+  },
+  {
+    "session_id": "1e370146-eea0-43bd-8d4f-90565c1935a6",
+    "student_id": "student_038",
+    "timestamp": "2026-06-24T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "urban planning is something we should focus on. While urban planning might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "bf6dd334-9b8e-4172-87c2-3dff102539ce",
+    "student_id": "student_038",
+    "timestamp": "2026-07-08T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "Many people care about urban planning. Given the recent developments, our understanding of urban planning necessitates a deeper investigation."
+  },
+  {
+    "session_id": "04099aa7-1807-4418-a63d-891506df157f",
+    "student_id": "student_038",
+    "timestamp": "2026-07-22T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "urban planning affects society. Since the data indicates a clear trend, it is evident that urban planning leads to broader implications."
+  },
+  {
+    "session_id": "d2f43850-2b45-4acc-9794-4c05ae187f39",
+    "student_id": "student_039",
+    "timestamp": "2026-05-27T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "I really care about sociology. Because of its wide reach, sociology must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "760335e9-9d91-46f8-9eeb-7a48ec9cc80b",
+    "student_id": "student_039",
+    "timestamp": "2026-06-10T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "sociology affects society. If we consider the historical context, therefore, sociology plays a critical role."
+  },
+  {
+    "session_id": "71eaec0c-f174-48b3-adc3-0e1520379b5f",
+    "student_id": "student_039",
+    "timestamp": "2026-06-24T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "Many people care about sociology. Because of its wide reach, sociology must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "c9337c84-1e5d-4bbc-8529-49a4065532ec",
+    "student_id": "student_039",
+    "timestamp": "2026-07-08T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "We should study sociology more. If we consider the historical context, therefore, sociology plays a critical role."
+  },
+  {
+    "session_id": "54c346c3-9df7-4efd-adbd-1845d476b500",
+    "student_id": "student_039",
+    "timestamp": "2026-07-22T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "We should study sociology more. Although some argue otherwise, sociology is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "19278a3c-52a4-4e6f-8b95-797b3c830443",
+    "student_id": "student_040",
+    "timestamp": "2026-05-27T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "sociology is something we should focus on. Since the data indicates a clear trend, it is evident that sociology leads to broader implications."
+  },
+  {
+    "session_id": "4b400f51-7f8b-4ecd-b46f-348e573cf733",
+    "student_id": "student_040",
+    "timestamp": "2026-06-10T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "sociology is something we should focus on. Given the recent developments, our understanding of sociology necessitates a deeper investigation."
+  },
+  {
+    "session_id": "a29ea4f1-4010-4ba6-a5b2-93afd8f24a67",
+    "student_id": "student_040",
+    "timestamp": "2026-06-24T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "sociology affects society. Since the data indicates a clear trend, it is evident that sociology leads to broader implications."
+  },
+  {
+    "session_id": "4d72f05b-9af3-49d0-8ddb-534638efbe14",
+    "student_id": "student_040",
+    "timestamp": "2026-07-08T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "We should study sociology more. While sociology might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "e358f3aa-331b-4ad5-bdc3-8b2e6249a521",
+    "student_id": "student_040",
+    "timestamp": "2026-07-22T10:31:33.931544",
+    "archetype_label": "plateauing",
+    "text": "I think sociology is important. If we consider the historical context, therefore, sociology plays a critical role."
+  },
+  {
+    "session_id": "aca67fe9-500a-4c58-a7c6-82bb7343eacf",
+    "student_id": "student_041",
+    "timestamp": "2026-05-27T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "Given the recent developments, our understanding of sociology necessitates a deeper investigation. The socioeconomic ramifications of sociology exemplify systematic disparities."
+  },
+  {
+    "session_id": "e651b75c-0612-4437-a739-e37a8406e903",
+    "student_id": "student_041",
+    "timestamp": "2026-06-10T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "Because of its wide reach, sociology must be carefully analyzed, hence its relevance. The socioeconomic ramifications of sociology exemplify systematic disparities."
+  },
+  {
+    "session_id": "0e7d7de3-0fc1-48b4-ae8d-b7edf16582c5",
+    "student_id": "student_041",
+    "timestamp": "2026-06-24T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "We should study sociology more. Since the data indicates a clear trend, it is evident that sociology leads to broader implications. It might be possible that sociology could influence the outcome."
+  },
+  {
+    "session_id": "a472e02c-85ee-4cbc-8582-83562e36eaae",
+    "student_id": "student_041",
+    "timestamp": "2026-07-08T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "Many people care about sociology. There is a chance that sociology might be partially involved."
+  },
+  {
+    "session_id": "3336b1d0-4d59-4716-8208-835973a555e8",
+    "student_id": "student_041",
+    "timestamp": "2026-07-22T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "We should study sociology more. I might suggest that sociology could possibly be related."
+  },
+  {
+    "session_id": "ce0fa1b7-d4ad-40aa-bb61-52048be905e5",
+    "student_id": "student_042",
+    "timestamp": "2026-05-27T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, philosophy plays a critical role. Theoretical frameworks surrounding philosophy demonstrate profound epistemic consequences."
+  },
+  {
+    "session_id": "f0dfc92b-bb36-4556-91ab-462059f651f6",
+    "student_id": "student_042",
+    "timestamp": "2026-06-10T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, philosophy is important because it fundamentally alters our perspective. Theoretical frameworks surrounding philosophy demonstrate profound epistemic consequences."
+  },
+  {
+    "session_id": "b1a11555-9643-4f07-be29-02f1c03a0f07",
+    "student_id": "student_042",
+    "timestamp": "2026-06-24T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "We should study philosophy more. Given the recent developments, our understanding of philosophy necessitates a deeper investigation. I suppose philosophy could sort of matter in some contexts."
+  },
+  {
+    "session_id": "7c9cdd91-d369-4a2d-8bf6-58c17121b22d",
+    "student_id": "student_042",
+    "timestamp": "2026-07-08T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "I think philosophy is important. There is a chance that philosophy might be partially involved."
+  },
+  {
+    "session_id": "4cd4a2ba-eff6-477f-a696-18115c6c29b0",
+    "student_id": "student_042",
+    "timestamp": "2026-07-22T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "philosophy is something we should focus on. Perhaps philosophy seems to have a minor effect."
+  },
+  {
+    "session_id": "2452f7b0-f390-483e-8ea5-ba6ca54b1f85",
+    "student_id": "student_043",
+    "timestamp": "2026-05-27T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that philosophy leads to broader implications. The socioeconomic ramifications of philosophy exemplify systematic disparities."
+  },
+  {
+    "session_id": "e681b06b-7e48-42cb-9fda-fdc4c9204b6d",
+    "student_id": "student_043",
+    "timestamp": "2026-06-10T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "While philosophy might seem trivial initially, it ultimately shapes our shared understanding. The conceptualization of philosophy necessitates a paradigm shift."
+  },
+  {
+    "session_id": "1ff09a49-b391-4a8a-b1cc-6e2ca72f943a",
+    "student_id": "student_043",
+    "timestamp": "2026-06-24T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "philosophy is something we should focus on. Even though there are detractors, philosophy remains central to the discourse as it impacts multiple domains. I suppose philosophy could sort of matter in some contexts."
+  },
+  {
+    "session_id": "b68acbaf-b366-45ff-a76f-b8bfc94fc00a",
+    "student_id": "student_043",
+    "timestamp": "2026-07-08T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "I really care about philosophy. I suppose philosophy could sort of matter in some contexts."
+  },
+  {
+    "session_id": "a4274fac-f865-43f4-8b9d-c0a6df725d54",
+    "student_id": "student_043",
+    "timestamp": "2026-07-22T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "I think philosophy is important. I suppose philosophy could sort of matter in some contexts."
+  },
+  {
+    "session_id": "ad67cd2f-a6e5-4ab1-8494-699374f293fc",
+    "student_id": "student_044",
+    "timestamp": "2026-05-27T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that sociology leads to broader implications. Theoretical frameworks surrounding sociology demonstrate profound epistemic consequences."
+  },
+  {
+    "session_id": "008c7a46-1eda-4b3d-b20e-ceca44ddb4ee",
+    "student_id": "student_044",
+    "timestamp": "2026-06-10T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, sociology is important because it fundamentally alters our perspective. Ontological assumptions about sociology inherently constrain the epistemological boundaries."
+  },
+  {
+    "session_id": "9cf281df-1574-46c1-9d17-781d4932af82",
+    "student_id": "student_044",
+    "timestamp": "2026-06-24T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "I really care about sociology. Even though there are detractors, sociology remains central to the discourse as it impacts multiple domains. It could be that sociology might potentially alter things."
+  },
+  {
+    "session_id": "108d4a77-e6d8-49ed-9020-47acd3012953",
+    "student_id": "student_044",
+    "timestamp": "2026-07-08T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "sociology affects society. It might be possible that sociology could influence the outcome."
+  },
+  {
+    "session_id": "ebb91c37-c5e8-4f82-9906-80ce8a728bba",
+    "student_id": "student_044",
+    "timestamp": "2026-07-22T10:31:33.931544",
+    "archetype_label": "declining",
+    "text": "I think sociology is important. Perhaps sociology seems to have a minor effect."
+  },
+  {
+    "session_id": "67af910e-b890-4b07-9443-8ef5113e8821",
+    "student_id": "student_045",
+    "timestamp": "2026-05-27T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Because of its wide reach, urban planning must be carefully analyzed, hence its relevance. The socioeconomic ramifications of urban planning exemplify systematic disparities."
+  },
+  {
+    "session_id": "a176d6c6-1b92-4e64-884c-4cf63aa5ec84",
+    "student_id": "student_045",
+    "timestamp": "2026-06-10T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Even though there are detractors, urban planning remains central to the discourse as it impacts multiple domains. The dialectical relationship between urban planning and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "8ade416c-203f-4494-9922-bd435c0c0d31",
+    "student_id": "student_045",
+    "timestamp": "2026-06-24T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "We should study urban planning more. Given the recent developments, our understanding of urban planning necessitates a deeper investigation. Perhaps urban planning seems to have a minor effect."
+  },
+  {
+    "session_id": "3cabf4c8-0b3e-424c-ba59-b93613484c63",
+    "student_id": "student_045",
+    "timestamp": "2026-07-08T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "urban planning is something we should focus on. It might be possible that urban planning could influence the outcome."
+  },
+  {
+    "session_id": "da16902b-fd26-435a-a669-a2699a22367e",
+    "student_id": "student_045",
+    "timestamp": "2026-07-22T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "urban planning affects society. It might be possible that urban planning could influence the outcome."
+  },
+  {
+    "session_id": "835dcd03-5228-4623-a071-c3d8189cdcf6",
+    "student_id": "student_046",
+    "timestamp": "2026-05-27T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "While global economics might seem trivial initially, it ultimately shapes our shared understanding. The dialectical relationship between global economics and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "14cfa0d1-7598-4dbc-b952-328408c5b360",
+    "student_id": "student_046",
+    "timestamp": "2026-06-10T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, global economics plays a critical role. Institutionalization of global economics precipitates fundamental structural realignments."
+  },
+  {
+    "session_id": "a36b8fba-9125-4df2-9138-48043ad65d3b",
+    "student_id": "student_046",
+    "timestamp": "2026-06-24T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "The issue of global economics matters. Since the data indicates a clear trend, it is evident that global economics leads to broader implications. Maybe global economics is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "7e382a39-b4d5-4b44-aaa3-f54014870308",
+    "student_id": "student_046",
+    "timestamp": "2026-07-08T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "It is clear that global economics is a big deal. Maybe global economics is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "1ce5c4fd-7010-49dd-b1ef-fae65462fee1",
+    "student_id": "student_046",
+    "timestamp": "2026-07-22T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "It is clear that global economics is a big deal. Maybe global economics is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "a028dc0c-43e1-43af-8152-9a24bd84363f",
+    "student_id": "student_047",
+    "timestamp": "2026-05-27T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "While global economics might seem trivial initially, it ultimately shapes our shared understanding. The dialectical relationship between global economics and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "1f715ec7-ec0b-4c1a-a146-df4922036ffe",
+    "student_id": "student_047",
+    "timestamp": "2026-06-10T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Because of its wide reach, global economics must be carefully analyzed, hence its relevance. The conceptualization of global economics necessitates a paradigm shift."
+  },
+  {
+    "session_id": "159c1d61-3c2d-4b8d-ba02-c1b3e31d4d4e",
+    "student_id": "student_047",
+    "timestamp": "2026-06-24T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "I really care about global economics. Since the data indicates a clear trend, it is evident that global economics leads to broader implications. Perhaps global economics seems to have a minor effect."
+  },
+  {
+    "session_id": "c882477f-c0e7-4adf-9a96-f2029632e59a",
+    "student_id": "student_047",
+    "timestamp": "2026-07-08T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "global economics affects society. Perhaps global economics seems to have a minor effect."
+  },
+  {
+    "session_id": "cebd8002-b344-4def-a631-dbba72451274",
+    "student_id": "student_047",
+    "timestamp": "2026-07-22T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "I think global economics is important. There is a chance that global economics might be partially involved."
+  },
+  {
+    "session_id": "df1f817b-85a7-4941-8b93-2fc2fa06dbe1",
+    "student_id": "student_048",
+    "timestamp": "2026-05-27T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, sociology is important because it fundamentally alters our perspective. The socioeconomic ramifications of sociology exemplify systematic disparities."
+  },
+  {
+    "session_id": "00a96315-4ce9-444a-8850-9d7f4d5e219e",
+    "student_id": "student_048",
+    "timestamp": "2026-06-10T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, sociology plays a critical role. The dialectical relationship between sociology and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "434b5735-3e34-4f9a-b2a6-2393ca856373",
+    "student_id": "student_048",
+    "timestamp": "2026-06-24T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "sociology affects society. Given the recent developments, our understanding of sociology necessitates a deeper investigation. Perhaps sociology seems to have a minor effect."
+  },
+  {
+    "session_id": "9c3cf0ae-34f2-4f35-9bab-3876cc796ce0",
+    "student_id": "student_048",
+    "timestamp": "2026-07-08T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "sociology affects society. It could be that sociology might potentially alter things."
+  },
+  {
+    "session_id": "d63741a5-49e4-4f69-b6c1-63ca66f7fd43",
+    "student_id": "student_048",
+    "timestamp": "2026-07-22T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Many people care about sociology. There is a chance that sociology might be partially involved."
+  },
+  {
+    "session_id": "81d357c0-8929-44a9-be8b-9ebc0cbca6ca",
+    "student_id": "student_049",
+    "timestamp": "2026-05-27T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, sociology plays a critical role. Institutionalization of sociology precipitates fundamental structural realignments."
+  },
+  {
+    "session_id": "470ce500-5d28-495b-8524-2b67388cba6d",
+    "student_id": "student_049",
+    "timestamp": "2026-06-10T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Given the recent developments, our understanding of sociology necessitates a deeper investigation. Theoretical frameworks surrounding sociology demonstrate profound epistemic consequences."
+  },
+  {
+    "session_id": "d5e5edbd-543c-4d6a-aefd-fa473b82eb39",
+    "student_id": "student_049",
+    "timestamp": "2026-06-24T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Many people care about sociology. Although some argue otherwise, sociology is important because it fundamentally alters our perspective. I suppose sociology could sort of matter in some contexts."
+  },
+  {
+    "session_id": "a7b073a3-7e20-4a12-b125-3d4584620005",
+    "student_id": "student_049",
+    "timestamp": "2026-07-08T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "It is clear that sociology is a big deal. It could be that sociology might potentially alter things."
+  },
+  {
+    "session_id": "3fb87743-863d-4634-8f53-5e3398506fce",
+    "student_id": "student_049",
+    "timestamp": "2026-07-22T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "sociology affects society. There is a chance that sociology might be partially involved."
+  },
+  {
+    "session_id": "24614b2a-a3c5-4d04-b14a-c91a93295b28",
+    "student_id": "student_050",
+    "timestamp": "2026-05-27T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "While machine learning might seem trivial initially, it ultimately shapes our shared understanding. The dialectical relationship between machine learning and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "41f06b0f-e11e-42f1-a5f6-1706b5e98a26",
+    "student_id": "student_050",
+    "timestamp": "2026-06-10T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, machine learning plays a critical role. The dialectical relationship between machine learning and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "03f5df84-0656-41fc-945a-345e7fd04c0e",
+    "student_id": "student_050",
+    "timestamp": "2026-06-24T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "machine learning affects society. While machine learning might seem trivial initially, it ultimately shapes our shared understanding. It might be possible that machine learning could influence the outcome."
+  },
+  {
+    "session_id": "fbee061e-a63f-41e0-8d30-65c7f3ae8235",
+    "student_id": "student_050",
+    "timestamp": "2026-07-08T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "machine learning is something we should focus on. There is a chance that machine learning might be partially involved."
+  },
+  {
+    "session_id": "db424539-a583-447f-a0e7-1ca809f799c7",
+    "student_id": "student_050",
+    "timestamp": "2026-07-22T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "I really care about machine learning. I suppose machine learning could sort of matter in some contexts."
+  },
+  {
+    "session_id": "30762288-7a46-4c2c-8dae-5e2efe36a14e",
+    "student_id": "student_051",
+    "timestamp": "2026-05-27T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Given the recent developments, our understanding of climate change necessitates a deeper investigation. Ontological assumptions about climate change inherently constrain the epistemological boundaries."
+  },
+  {
+    "session_id": "d6c025e3-4c3a-4ce5-bc4b-9be89465e756",
+    "student_id": "student_051",
+    "timestamp": "2026-06-10T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "While climate change might seem trivial initially, it ultimately shapes our shared understanding. Theoretical frameworks surrounding climate change demonstrate profound epistemic consequences."
+  },
+  {
+    "session_id": "1841eb5a-e1cc-4ae5-80a6-f83dcd93a51e",
+    "student_id": "student_051",
+    "timestamp": "2026-06-24T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "It is clear that climate change is a big deal. Although some argue otherwise, climate change is important because it fundamentally alters our perspective. I suppose climate change could sort of matter in some contexts."
+  },
+  {
+    "session_id": "ecc5b5e5-fd22-4d31-92e3-18e6d2bc4b5b",
+    "student_id": "student_051",
+    "timestamp": "2026-07-08T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "climate change is something we should focus on. Maybe climate change is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "c4abe25c-5bf0-40fd-9d86-ac8f262fce7f",
+    "student_id": "student_051",
+    "timestamp": "2026-07-22T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "I really care about climate change. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "4346259f-1409-48f5-83f7-f30b3c259b75",
+    "student_id": "student_052",
+    "timestamp": "2026-05-27T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that artificial intelligence leads to broader implications. Methodological considerations regarding artificial intelligence require institutional framework modifications."
+  },
+  {
+    "session_id": "a7dbae0e-e0d8-4fff-9b10-7c583cd85d88",
+    "student_id": "student_052",
+    "timestamp": "2026-06-10T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, artificial intelligence is important because it fundamentally alters our perspective. The conceptualization of artificial intelligence necessitates a paradigm shift."
+  },
+  {
+    "session_id": "0fe6be9b-4c78-4376-bd26-1d3f58c6aff5",
+    "student_id": "student_052",
+    "timestamp": "2026-06-24T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "artificial intelligence is something we should focus on. Since the data indicates a clear trend, it is evident that artificial intelligence leads to broader implications. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "c4b43cc3-d8cb-432d-96e3-ba44de0de7d7",
+    "student_id": "student_052",
+    "timestamp": "2026-07-08T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "artificial intelligence affects society. It could be that artificial intelligence might potentially alter things."
+  },
+  {
+    "session_id": "922cf716-98b6-4dbb-8f48-21be65f79374",
+    "student_id": "student_052",
+    "timestamp": "2026-07-22T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "I think artificial intelligence is important. There is a chance that artificial intelligence might be partially involved."
+  },
+  {
+    "session_id": "b3b4ac2e-7223-4d3a-a356-e561343be3e7",
+    "student_id": "student_053",
+    "timestamp": "2026-05-27T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, social psychology is important because it fundamentally alters our perspective. The conceptualization of social psychology necessitates a paradigm shift."
+  },
+  {
+    "session_id": "b0792019-f3ff-4ff4-af59-e77228ef607b",
+    "student_id": "student_053",
+    "timestamp": "2026-06-10T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, social psychology plays a critical role. The dialectical relationship between social psychology and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "d2736eb9-7f49-4ceb-a803-248de5f4a491",
+    "student_id": "student_053",
+    "timestamp": "2026-06-24T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "We should study social psychology more. If we consider the historical context, therefore, social psychology plays a critical role. There is a chance that social psychology might be partially involved."
+  },
+  {
+    "session_id": "bab35fb2-5723-43ad-8007-5c5a3783878a",
+    "student_id": "student_053",
+    "timestamp": "2026-07-08T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "It is clear that social psychology is a big deal. It could be that social psychology might potentially alter things."
+  },
+  {
+    "session_id": "d447ef35-2a72-411b-8bcc-f08b3b5a14c5",
+    "student_id": "student_053",
+    "timestamp": "2026-07-22T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Many people care about social psychology. I suppose social psychology could sort of matter in some contexts."
+  },
+  {
+    "session_id": "f1a62452-458e-4be0-b37b-10b82e7a5f3b",
+    "student_id": "student_054",
+    "timestamp": "2026-05-27T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "While urban planning might seem trivial initially, it ultimately shapes our shared understanding. Theoretical frameworks surrounding urban planning demonstrate profound epistemic consequences."
+  },
+  {
+    "session_id": "67a3b1d9-79ed-44e0-8620-285f4d1f318a",
+    "student_id": "student_054",
+    "timestamp": "2026-06-10T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "While urban planning might seem trivial initially, it ultimately shapes our shared understanding. The dialectical relationship between urban planning and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "bd2eb625-ecf0-441c-9338-7d514f66597d",
+    "student_id": "student_054",
+    "timestamp": "2026-06-24T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "I think urban planning is important. If we consider the historical context, therefore, urban planning plays a critical role. I suppose urban planning could sort of matter in some contexts."
+  },
+  {
+    "session_id": "73a04a20-a69c-4de1-a3fd-fc13aec8164f",
+    "student_id": "student_054",
+    "timestamp": "2026-07-08T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "I think urban planning is important. Maybe urban planning is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "ad0405af-1c04-4130-9430-3437a390754b",
+    "student_id": "student_054",
+    "timestamp": "2026-07-22T10:31:33.932558",
+    "archetype_label": "declining",
+    "text": "Many people care about urban planning. It could be that urban planning might potentially alter things."
+  },
+  {
+    "session_id": "f561d534-fdc8-490f-b58e-a1684805b8ae",
+    "student_id": "student_055",
+    "timestamp": "2026-05-27T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Because of its wide reach, sociology must be carefully analyzed, hence its relevance. Ontological assumptions about sociology inherently constrain the epistemological boundaries."
+  },
+  {
+    "session_id": "b25876c8-0f97-49a7-8689-f141b6b2d1fd",
+    "student_id": "student_055",
+    "timestamp": "2026-06-10T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that sociology leads to broader implications. The socioeconomic ramifications of sociology exemplify systematic disparities."
+  },
+  {
+    "session_id": "c5bea5df-4cb1-4b1c-a004-e17c15a7acfb",
+    "student_id": "student_055",
+    "timestamp": "2026-06-24T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "We should study sociology more. Although some argue otherwise, sociology is important because it fundamentally alters our perspective. It could be that sociology might potentially alter things."
+  },
+  {
+    "session_id": "885b0114-a711-4b16-bac3-a35d9e85c0ed",
+    "student_id": "student_055",
+    "timestamp": "2026-07-08T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "It is clear that sociology is a big deal. I might suggest that sociology could possibly be related."
+  },
+  {
+    "session_id": "e66a8b41-7fd5-44e8-8c55-d7afb1d001f6",
+    "student_id": "student_055",
+    "timestamp": "2026-07-22T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "sociology affects society. There is a chance that sociology might be partially involved."
+  },
+  {
+    "session_id": "2b2c4e18-621e-4b37-8c71-d3f5bd8e7d45",
+    "student_id": "student_056",
+    "timestamp": "2026-05-27T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that artificial intelligence leads to broader implications. The socioeconomic ramifications of artificial intelligence exemplify systematic disparities."
+  },
+  {
+    "session_id": "907f5233-4412-4de9-b86e-8c1bd90b3867",
+    "student_id": "student_056",
+    "timestamp": "2026-06-10T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "If we consider the historical context, therefore, artificial intelligence plays a critical role. The socioeconomic ramifications of artificial intelligence exemplify systematic disparities."
+  },
+  {
+    "session_id": "d4c67385-5ff9-420b-b972-c68dacff654c",
+    "student_id": "student_056",
+    "timestamp": "2026-06-24T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "I think artificial intelligence is important. If we consider the historical context, therefore, artificial intelligence plays a critical role. I might suggest that artificial intelligence could possibly be related."
+  },
+  {
+    "session_id": "68a7aa25-0285-4ba6-b74f-03244e000ab1",
+    "student_id": "student_056",
+    "timestamp": "2026-07-08T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "artificial intelligence is something we should focus on. I suppose artificial intelligence could sort of matter in some contexts."
+  },
+  {
+    "session_id": "73ad0724-5e04-43ee-a0df-48918e4ca6d6",
+    "student_id": "student_056",
+    "timestamp": "2026-07-22T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Many people care about artificial intelligence. There is a chance that artificial intelligence might be partially involved."
+  },
+  {
+    "session_id": "382fbc62-b898-4a12-9c8d-cc51a98980af",
+    "student_id": "student_057",
+    "timestamp": "2026-05-27T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Although some argue otherwise, bioethics is important because it fundamentally alters our perspective. The dialectical relationship between bioethics and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "7858a802-3ba5-4886-a37a-b87cf63bf050",
+    "student_id": "student_057",
+    "timestamp": "2026-06-10T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Even though there are detractors, bioethics remains central to the discourse as it impacts multiple domains. The socioeconomic ramifications of bioethics exemplify systematic disparities."
+  },
+  {
+    "session_id": "e100e1dd-f730-4a6d-aa52-e4ac67e08333",
+    "student_id": "student_057",
+    "timestamp": "2026-06-24T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Many people care about bioethics. Because of its wide reach, bioethics must be carefully analyzed, hence its relevance. Maybe bioethics is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "97dce5c9-1562-49f2-b843-f5578f15d149",
+    "student_id": "student_057",
+    "timestamp": "2026-07-08T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "We should study bioethics more. Perhaps bioethics seems to have a minor effect."
+  },
+  {
+    "session_id": "733c7ec8-f77a-4de9-8389-32b9e951edbb",
+    "student_id": "student_057",
+    "timestamp": "2026-07-22T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Many people care about bioethics. Perhaps bioethics seems to have a minor effect."
+  },
+  {
+    "session_id": "dcbfbc2c-8ca0-459f-8746-e79cfa44f883",
+    "student_id": "student_058",
+    "timestamp": "2026-05-27T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that sociology leads to broader implications. Ontological assumptions about sociology inherently constrain the epistemological boundaries."
+  },
+  {
+    "session_id": "69404f24-6530-4b15-83ee-e0b9c14b8fd8",
+    "student_id": "student_058",
+    "timestamp": "2026-06-10T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Given the recent developments, our understanding of sociology necessitates a deeper investigation. Ontological assumptions about sociology inherently constrain the epistemological boundaries."
+  },
+  {
+    "session_id": "bc4e3802-2eb5-4fd6-92b8-a51e6e09e6f8",
+    "student_id": "student_058",
+    "timestamp": "2026-06-24T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "sociology affects society. While sociology might seem trivial initially, it ultimately shapes our shared understanding. Maybe sociology is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "c1150d15-dfda-4a62-8dac-1f8c69c263fb",
+    "student_id": "student_058",
+    "timestamp": "2026-07-08T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "sociology affects society. Maybe sociology is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "a0202377-83c6-484b-aa51-84599fe94e08",
+    "student_id": "student_058",
+    "timestamp": "2026-07-22T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "sociology is something we should focus on. Perhaps sociology seems to have a minor effect."
+  },
+  {
+    "session_id": "337c2476-ed3d-4307-9ef9-4679ce4e2f04",
+    "student_id": "student_059",
+    "timestamp": "2026-05-27T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Given the recent developments, our understanding of global economics necessitates a deeper investigation. The socioeconomic ramifications of global economics exemplify systematic disparities."
+  },
+  {
+    "session_id": "c9d3bfd2-bb76-4998-b403-df256d340571",
+    "student_id": "student_059",
+    "timestamp": "2026-06-10T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that global economics leads to broader implications. Methodological considerations regarding global economics require institutional framework modifications."
+  },
+  {
+    "session_id": "a6143715-b988-4f40-94eb-4ed56c10ecd8",
+    "student_id": "student_059",
+    "timestamp": "2026-06-24T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "We should study global economics more. Because of its wide reach, global economics must be carefully analyzed, hence its relevance. Perhaps global economics seems to have a minor effect."
+  },
+  {
+    "session_id": "6fe92977-f8f2-40e7-af82-5664fd057d47",
+    "student_id": "student_059",
+    "timestamp": "2026-07-08T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "I really care about global economics. Maybe global economics is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "6a3a5ca2-9e79-4e46-8662-039c4d01332b",
+    "student_id": "student_059",
+    "timestamp": "2026-07-22T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "We should study global economics more. I might suggest that global economics could possibly be related."
+  },
+  {
+    "session_id": "6ed15e14-ff44-4e4f-9c53-f5a2406f1cdc",
+    "student_id": "student_060",
+    "timestamp": "2026-05-27T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Since the data indicates a clear trend, it is evident that artificial intelligence leads to broader implications. The socioeconomic ramifications of artificial intelligence exemplify systematic disparities."
+  },
+  {
+    "session_id": "34be585f-942f-4f84-a5f8-a679d4fdda50",
+    "student_id": "student_060",
+    "timestamp": "2026-06-10T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Given the recent developments, our understanding of artificial intelligence necessitates a deeper investigation. Methodological considerations regarding artificial intelligence require institutional framework modifications."
+  },
+  {
+    "session_id": "ad7c624f-8625-4e21-9dd1-d7217d7f1317",
+    "student_id": "student_060",
+    "timestamp": "2026-06-24T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "Many people care about artificial intelligence. Since the data indicates a clear trend, it is evident that artificial intelligence leads to broader implications. Perhaps artificial intelligence seems to have a minor effect."
+  },
+  {
+    "session_id": "0703f474-faf1-47e0-bde2-d0e8025e8e61",
+    "student_id": "student_060",
+    "timestamp": "2026-07-08T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "I really care about artificial intelligence. Maybe artificial intelligence is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "651df82e-c066-4d9e-b1aa-393df7a1b84e",
+    "student_id": "student_060",
+    "timestamp": "2026-07-22T10:31:33.933551",
+    "archetype_label": "declining",
+    "text": "artificial intelligence is something we should focus on. Maybe artificial intelligence is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "361fce86-7097-40ae-ae59-435ec7bcaff7",
+    "student_id": "student_061",
+    "timestamp": "2026-05-27T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "urban planning is something we should focus on. Even though there are detractors, urban planning remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "7abd6740-4667-42cb-a2e8-e012ff0301d7",
+    "student_id": "student_061",
+    "timestamp": "2026-06-10T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "quantum computing is something we should focus on. Although some argue otherwise, quantum computing is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "8f6e316d-a76c-4916-b76b-975e92fea882",
+    "student_id": "student_061",
+    "timestamp": "2026-06-24T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "Because of its wide reach, quantum computing must be carefully analyzed, hence its relevance. Theoretical frameworks surrounding quantum computing demonstrate profound epistemic consequences."
+  },
+  {
+    "session_id": "6d522f73-9fac-4d19-871b-c241bf1fe47b",
+    "student_id": "student_061",
+    "timestamp": "2026-07-08T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "It is clear that machine learning is a big deal. Because of its wide reach, machine learning must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "232b3d63-d17c-4faf-a090-392e8a332aa3",
+    "student_id": "student_061",
+    "timestamp": "2026-07-22T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "We should study social psychology more."
+  },
+  {
+    "session_id": "9f1039bd-0d22-4953-9e28-00400d18ffd1",
+    "student_id": "student_062",
+    "timestamp": "2026-05-27T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "The issue of artificial intelligence matters."
+  },
+  {
+    "session_id": "17786496-3f24-490d-8258-a90174e075f1",
+    "student_id": "student_062",
+    "timestamp": "2026-06-10T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "artificial intelligence is something we should focus on. Although some argue otherwise, artificial intelligence is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "45e4d003-3064-4aec-bd07-e244374eb2cd",
+    "student_id": "student_062",
+    "timestamp": "2026-06-24T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "global economics affects society. Because of its wide reach, global economics must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "958f5a97-43a3-4254-a53e-e2ab4ef0c18f",
+    "student_id": "student_062",
+    "timestamp": "2026-07-08T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "Many people care about bioethics. If we consider the historical context, therefore, bioethics plays a critical role."
+  },
+  {
+    "session_id": "06ce072d-7cc4-4094-afa2-15d07b3651eb",
+    "student_id": "student_062",
+    "timestamp": "2026-07-22T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "I really care about climate change."
+  },
+  {
+    "session_id": "931e3073-d55d-4177-a794-100cd17bdc04",
+    "student_id": "student_063",
+    "timestamp": "2026-05-27T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, social psychology plays a critical role. Ontological assumptions about social psychology inherently constrain the epistemological boundaries. I suppose social psychology could sort of matter in some contexts."
+  },
+  {
+    "session_id": "207d2271-fae9-45b6-a9cc-12b0d54e087f",
+    "student_id": "student_063",
+    "timestamp": "2026-06-10T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "climate change is something we should focus on. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "c7c0c14c-68e3-4793-a000-618dba360cc3",
+    "student_id": "student_063",
+    "timestamp": "2026-06-24T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "Since the data indicates a clear trend, it is evident that bioethics leads to broader implications. The dialectical relationship between bioethics and modern institutions reveals underlying structural biases. I suppose bioethics could sort of matter in some contexts."
+  },
+  {
+    "session_id": "61a0481d-bfe8-4b00-95b5-a7bbdc897a54",
+    "student_id": "student_063",
+    "timestamp": "2026-07-08T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "Many people care about urban planning. Since the data indicates a clear trend, it is evident that urban planning leads to broader implications. Perhaps urban planning seems to have a minor effect."
+  },
+  {
+    "session_id": "84e20130-21da-41b9-8d94-178f29a80306",
+    "student_id": "student_063",
+    "timestamp": "2026-07-22T10:31:33.933551",
+    "archetype_label": "noisy",
+    "text": "It is clear that climate change is a big deal. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "44cdd50d-db1a-484b-a1a6-f06de7b4e41b",
+    "student_id": "student_064",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "global economics affects society. If we consider the historical context, therefore, global economics plays a critical role. There is a chance that global economics might be partially involved."
+  },
+  {
+    "session_id": "3c78c1d3-f0b1-440e-85c0-2a73781f2dad",
+    "student_id": "student_064",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, urban planning is important because it fundamentally alters our perspective. Theoretical frameworks surrounding urban planning demonstrate profound epistemic consequences."
+  },
+  {
+    "session_id": "aceae90f-90c9-4ef2-a5ec-bf6ab7839331",
+    "student_id": "student_064",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "I think machine learning is important."
+  },
+  {
+    "session_id": "9da8be90-b947-4201-885a-59a2afe65b5d",
+    "student_id": "student_064",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, artificial intelligence is important because it fundamentally alters our perspective. Ontological assumptions about artificial intelligence inherently constrain the epistemological boundaries. Perhaps artificial intelligence seems to have a minor effect."
+  },
+  {
+    "session_id": "c19c1619-bbfe-42b2-8665-ca04d31d7a3b",
+    "student_id": "student_064",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "artificial intelligence affects society. Since the data indicates a clear trend, it is evident that artificial intelligence leads to broader implications. I suppose artificial intelligence could sort of matter in some contexts."
+  },
+  {
+    "session_id": "07dd69fd-2139-4d0e-906c-d87a0264bde8",
+    "student_id": "student_065",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "artificial intelligence affects society. Although some argue otherwise, artificial intelligence is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "552ab906-50b7-4f16-8912-58cb3df494c9",
+    "student_id": "student_065",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "The issue of quantum computing matters. While quantum computing might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "8662bcc5-aac3-4a08-93ae-3822407a3561",
+    "student_id": "student_065",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "artificial intelligence affects society. Since the data indicates a clear trend, it is evident that artificial intelligence leads to broader implications."
+  },
+  {
+    "session_id": "41d73e37-5e8a-4a90-9635-dffe3901b49f",
+    "student_id": "student_065",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "I really care about urban planning. Since the data indicates a clear trend, it is evident that urban planning leads to broader implications."
+  },
+  {
+    "session_id": "8038ca9e-dc76-4085-a57b-8b2feaa38bf9",
+    "student_id": "student_065",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "I think sociology is important. Because of its wide reach, sociology must be carefully analyzed, hence its relevance. Perhaps sociology seems to have a minor effect."
+  },
+  {
+    "session_id": "411cb650-779a-4699-aaca-a3fb0f4f02ad",
+    "student_id": "student_066",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "I think machine learning is important."
+  },
+  {
+    "session_id": "e6dad4b1-50b1-4c22-9078-a054cbc6555e",
+    "student_id": "student_066",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Given the recent developments, our understanding of urban planning necessitates a deeper investigation. Ontological assumptions about urban planning inherently constrain the epistemological boundaries."
+  },
+  {
+    "session_id": "77a85237-9011-4dc2-bf64-aa3aa78307b7",
+    "student_id": "student_066",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "bioethics is something we should focus on."
+  },
+  {
+    "session_id": "44711f22-c8af-4286-ab9f-10f60735d430",
+    "student_id": "student_066",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Given the recent developments, our understanding of quantum computing necessitates a deeper investigation. Institutionalization of quantum computing precipitates fundamental structural realignments."
+  },
+  {
+    "session_id": "15ab2723-9bab-412d-8c19-706a35e81427",
+    "student_id": "student_066",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Many people care about philosophy."
+  },
+  {
+    "session_id": "6113dbf7-7ed3-4051-b106-329add97bfba",
+    "student_id": "student_067",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "While artificial intelligence might seem trivial initially, it ultimately shapes our shared understanding. The conceptualization of artificial intelligence necessitates a paradigm shift."
+  },
+  {
+    "session_id": "fa968af1-4191-4cbc-8db9-3a1738ad5406",
+    "student_id": "student_067",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "It is clear that urban planning is a big deal. If we consider the historical context, therefore, urban planning plays a critical role."
+  },
+  {
+    "session_id": "b5505dd2-d924-4f7b-8fd4-818944b6c7b2",
+    "student_id": "student_067",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "social psychology affects society. Given the recent developments, our understanding of social psychology necessitates a deeper investigation."
+  },
+  {
+    "session_id": "c430ab52-5a11-4b03-bdf8-aa2aae5fb46c",
+    "student_id": "student_067",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, machine learning is important because it fundamentally alters our perspective. The socioeconomic ramifications of machine learning exemplify systematic disparities."
+  },
+  {
+    "session_id": "15114cd5-883d-40df-b5ae-e8c4a2f9c415",
+    "student_id": "student_067",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "I really care about philosophy. While philosophy might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "dd9bac2f-7ccc-49db-acc7-0bf2710c29c4",
+    "student_id": "student_068",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "The issue of climate change matters."
+  },
+  {
+    "session_id": "7383d3bf-c91f-4e35-bc77-e91f4d5da714",
+    "student_id": "student_068",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, artificial intelligence plays a critical role. Ontological assumptions about artificial intelligence inherently constrain the epistemological boundaries."
+  },
+  {
+    "session_id": "caa5de2d-703d-4ea0-a41d-76c391ba1737",
+    "student_id": "student_068",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Many people care about quantum computing."
+  },
+  {
+    "session_id": "eb73ed26-1b6c-403a-a40e-4c794d203dd9",
+    "student_id": "student_068",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Given the recent developments, our understanding of bioethics necessitates a deeper investigation. Ontological assumptions about bioethics inherently constrain the epistemological boundaries."
+  },
+  {
+    "session_id": "ffbd179b-0d51-4fbd-8726-85e7df4074fa",
+    "student_id": "student_068",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Because of its wide reach, social psychology must be carefully analyzed, hence its relevance. Methodological considerations regarding social psychology require institutional framework modifications. Maybe social psychology is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "eac99051-6aeb-4b8d-8d52-fd6a14b73124",
+    "student_id": "student_069",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "philosophy is something we should focus on."
+  },
+  {
+    "session_id": "8da351a5-467f-423f-bffd-f768950ecbfc",
+    "student_id": "student_069",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "I think bioethics is important."
+  },
+  {
+    "session_id": "f0a51089-8332-4c25-a00b-dcecf8817984",
+    "student_id": "student_069",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "It is clear that climate change is a big deal. Although some argue otherwise, climate change is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "1c625cb3-61f7-4a28-aeca-de28008cf42c",
+    "student_id": "student_069",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "It is clear that sociology is a big deal."
+  },
+  {
+    "session_id": "7585e8bf-38cc-43b4-b05f-f324f78bc654",
+    "student_id": "student_069",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "We should study philosophy more. Since the data indicates a clear trend, it is evident that philosophy leads to broader implications."
+  },
+  {
+    "session_id": "96269643-c33b-4b21-8004-c1821ad84fdb",
+    "student_id": "student_070",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "artificial intelligence is something we should focus on. If we consider the historical context, therefore, artificial intelligence plays a critical role."
+  },
+  {
+    "session_id": "a3099d6e-be03-40ef-856d-1276452e6be8",
+    "student_id": "student_070",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Since the data indicates a clear trend, it is evident that quantum computing leads to broader implications. The socioeconomic ramifications of quantum computing exemplify systematic disparities."
+  },
+  {
+    "session_id": "61659692-1c16-4f77-bf52-b3bc4b4e129d",
+    "student_id": "student_070",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Since the data indicates a clear trend, it is evident that urban planning leads to broader implications. The conceptualization of urban planning necessitates a paradigm shift."
+  },
+  {
+    "session_id": "1eb49e4c-37bc-444f-a29f-33fad4801d1d",
+    "student_id": "student_070",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "artificial intelligence is something we should focus on."
+  },
+  {
+    "session_id": "aedcdf34-76de-43cf-b1f9-5676dfef7f25",
+    "student_id": "student_070",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "While philosophy might seem trivial initially, it ultimately shapes our shared understanding. The conceptualization of philosophy necessitates a paradigm shift. There is a chance that philosophy might be partially involved."
+  },
+  {
+    "session_id": "23ad2d8b-e530-47c2-9c91-4d05b6363ab9",
+    "student_id": "student_071",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, global economics is important because it fundamentally alters our perspective. The conceptualization of global economics necessitates a paradigm shift. I suppose global economics could sort of matter in some contexts."
+  },
+  {
+    "session_id": "121a422b-ab70-4037-b4c7-94e1f951a649",
+    "student_id": "student_071",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "The issue of artificial intelligence matters."
+  },
+  {
+    "session_id": "d5b66de7-c177-4da4-822e-3e4690280815",
+    "student_id": "student_071",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "global economics is something we should focus on. While global economics might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "7ff84d20-67a4-4809-9b2b-60856feaec30",
+    "student_id": "student_071",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "I really care about machine learning. I might suggest that machine learning could possibly be related."
+  },
+  {
+    "session_id": "3e567e29-ecd1-48dc-8bab-1bc1d47c653f",
+    "student_id": "student_071",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "bioethics is something we should focus on. Because of its wide reach, bioethics must be carefully analyzed, hence its relevance. There is a chance that bioethics might be partially involved."
+  },
+  {
+    "session_id": "21ae9af4-f2f9-4862-b7b5-d20fd5df709e",
+    "student_id": "student_072",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "We should study global economics more."
+  },
+  {
+    "session_id": "f22ff548-423f-4c6f-8091-26f6a2603e23",
+    "student_id": "student_072",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Since the data indicates a clear trend, it is evident that climate change leads to broader implications. Institutionalization of climate change precipitates fundamental structural realignments. Perhaps climate change seems to have a minor effect."
+  },
+  {
+    "session_id": "631063ad-89fc-44b3-9bba-71a89d83dd41",
+    "student_id": "student_072",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Even though there are detractors, global economics remains central to the discourse as it impacts multiple domains. Ontological assumptions about global economics inherently constrain the epistemological boundaries. It could be that global economics might potentially alter things."
+  },
+  {
+    "session_id": "f48d61d2-f373-4052-9d9f-5d4dd9efc3c0",
+    "student_id": "student_072",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "urban planning is something we should focus on. Although some argue otherwise, urban planning is important because it fundamentally alters our perspective. Maybe urban planning is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "4d9282cf-02e6-4137-84c6-139b71818827",
+    "student_id": "student_072",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "It is clear that artificial intelligence is a big deal. Although some argue otherwise, artificial intelligence is important because it fundamentally alters our perspective."
+  },
+  {
+    "session_id": "3a826b94-e126-48ab-8727-ff33a2255b04",
+    "student_id": "student_073",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "I really care about sociology. Because of its wide reach, sociology must be carefully analyzed, hence its relevance. I might suggest that sociology could possibly be related."
+  },
+  {
+    "session_id": "73f7f7f2-a1c0-498f-90bd-eebaa76d30f4",
+    "student_id": "student_073",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Even though there are detractors, global economics remains central to the discourse as it impacts multiple domains. The socioeconomic ramifications of global economics exemplify systematic disparities."
+  },
+  {
+    "session_id": "0c26c453-8190-475b-b746-cbd8903b3888",
+    "student_id": "student_073",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "I think global economics is important. While global economics might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "74284944-3cba-4ab6-8974-43c5fdeeda49",
+    "student_id": "student_073",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "While artificial intelligence might seem trivial initially, it ultimately shapes our shared understanding. The dialectical relationship between artificial intelligence and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "3962863b-392e-4916-9fb3-1b37e2d38e29",
+    "student_id": "student_073",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "sociology is something we should focus on."
+  },
+  {
+    "session_id": "17fe5b2f-5890-4c74-889f-928f0ef3d0cb",
+    "student_id": "student_074",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Given the recent developments, our understanding of social psychology necessitates a deeper investigation. Ontological assumptions about social psychology inherently constrain the epistemological boundaries."
+  },
+  {
+    "session_id": "957bd859-2e53-43ab-a89c-134e1dae4a34",
+    "student_id": "student_074",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "quantum computing is something we should focus on."
+  },
+  {
+    "session_id": "57152782-8c09-41b8-9eac-30dd1e988044",
+    "student_id": "student_074",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Because of its wide reach, philosophy must be carefully analyzed, hence its relevance. Theoretical frameworks surrounding philosophy demonstrate profound epistemic consequences."
+  },
+  {
+    "session_id": "c811d7c8-8009-4405-a437-8d272b8cb15f",
+    "student_id": "student_074",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Because of its wide reach, bioethics must be carefully analyzed, hence its relevance. The dialectical relationship between bioethics and modern institutions reveals underlying structural biases. It could be that bioethics might potentially alter things."
+  },
+  {
+    "session_id": "dd3b8e9d-546d-4cf9-962d-5bf076b1653c",
+    "student_id": "student_074",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "I really care about climate change. While climate change might seem trivial initially, it ultimately shapes our shared understanding."
+  },
+  {
+    "session_id": "02199c92-e989-4a91-ae2d-fc6ac4ccd053",
+    "student_id": "student_075",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "I think quantum computing is important. It could be that quantum computing might potentially alter things."
+  },
+  {
+    "session_id": "59920dfe-7959-4912-bf3f-43280e9d2f3f",
+    "student_id": "student_075",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Many people care about quantum computing."
+  },
+  {
+    "session_id": "1972d544-cb2d-4500-b9b5-3e3c9369f72b",
+    "student_id": "student_075",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, climate change is important because it fundamentally alters our perspective. The conceptualization of climate change necessitates a paradigm shift. There is a chance that climate change might be partially involved."
+  },
+  {
+    "session_id": "540211eb-ade9-42bc-9a71-1cfc55b03678",
+    "student_id": "student_075",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Many people care about climate change. Because of its wide reach, climate change must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "ec08a0ad-553d-4ca1-b06e-b90d1c07abfa",
+    "student_id": "student_075",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "I really care about sociology."
+  },
+  {
+    "session_id": "7dfef7fc-85bb-49c2-a6e0-ceb096f44e43",
+    "student_id": "student_076",
+    "timestamp": "2026-05-27T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "If we consider the historical context, therefore, social psychology plays a critical role. The socioeconomic ramifications of social psychology exemplify systematic disparities. There is a chance that social psychology might be partially involved."
+  },
+  {
+    "session_id": "a0788f1a-3489-4c44-a155-abcb58361f6d",
+    "student_id": "student_076",
+    "timestamp": "2026-06-10T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "global economics is something we should focus on. Because of its wide reach, global economics must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "42d7675c-6838-492c-9ec0-15b7f173ee00",
+    "student_id": "student_076",
+    "timestamp": "2026-06-24T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "global economics affects society. Given the recent developments, our understanding of global economics necessitates a deeper investigation."
+  },
+  {
+    "session_id": "5f895d77-a2fc-4560-a9d1-7c87d87385fa",
+    "student_id": "student_076",
+    "timestamp": "2026-07-08T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "quantum computing is something we should focus on."
+  },
+  {
+    "session_id": "4f9b61a3-5137-4da0-bf4f-a3bfafcdb0c0",
+    "student_id": "student_076",
+    "timestamp": "2026-07-22T10:31:33.934544",
+    "archetype_label": "noisy",
+    "text": "Although some argue otherwise, artificial intelligence is important because it fundamentally alters our perspective. The dialectical relationship between artificial intelligence and modern institutions reveals underlying structural biases."
+  },
+  {
+    "session_id": "ac9d1523-8c78-486b-b910-4f2b890525be",
+    "student_id": "student_077",
+    "timestamp": "2026-05-27T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "I think urban planning is important. Because of its wide reach, urban planning must be carefully analyzed, hence its relevance. I suppose urban planning could sort of matter in some contexts."
+  },
+  {
+    "session_id": "9c24bd9f-2c6f-4d57-9937-cc4f18c87fc1",
+    "student_id": "student_077",
+    "timestamp": "2026-06-10T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "Given the recent developments, our understanding of sociology necessitates a deeper investigation. Ontological assumptions about sociology inherently constrain the epistemological boundaries. I suppose sociology could sort of matter in some contexts."
+  },
+  {
+    "session_id": "41ceae90-4dfe-4528-b46f-f1c042188f6a",
+    "student_id": "student_077",
+    "timestamp": "2026-06-24T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "Given the recent developments, our understanding of artificial intelligence necessitates a deeper investigation. The socioeconomic ramifications of artificial intelligence exemplify systematic disparities. Perhaps artificial intelligence seems to have a minor effect."
+  },
+  {
+    "session_id": "a27e75e7-db58-4e44-91e7-c0ad28d6418d",
+    "student_id": "student_077",
+    "timestamp": "2026-07-08T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "It is clear that machine learning is a big deal. Given the recent developments, our understanding of machine learning necessitates a deeper investigation."
+  },
+  {
+    "session_id": "d1adf59e-fa12-420f-b95d-653144feaa9b",
+    "student_id": "student_077",
+    "timestamp": "2026-07-22T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "I really care about bioethics. If we consider the historical context, therefore, bioethics plays a critical role."
+  },
+  {
+    "session_id": "08f2725c-bf59-44a6-8d39-bb88f6c1c11f",
+    "student_id": "student_078",
+    "timestamp": "2026-05-27T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "bioethics affects society. If we consider the historical context, therefore, bioethics plays a critical role."
+  },
+  {
+    "session_id": "1e778a14-6f8b-4f92-bbdc-effcb9c17295",
+    "student_id": "student_078",
+    "timestamp": "2026-06-10T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "It is clear that artificial intelligence is a big deal. If we consider the historical context, therefore, artificial intelligence plays a critical role."
+  },
+  {
+    "session_id": "d801785e-2d90-48b2-852d-493b10a2fc68",
+    "student_id": "student_078",
+    "timestamp": "2026-06-24T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "bioethics affects society. Since the data indicates a clear trend, it is evident that bioethics leads to broader implications. It might be possible that bioethics could influence the outcome."
+  },
+  {
+    "session_id": "dba61cf0-b6a2-48fa-882c-cc27da1ac8d2",
+    "student_id": "student_078",
+    "timestamp": "2026-07-08T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "We should study quantum computing more. I suppose quantum computing could sort of matter in some contexts."
+  },
+  {
+    "session_id": "ab53f6a1-7ea8-48a4-b6f5-0f327edb581a",
+    "student_id": "student_078",
+    "timestamp": "2026-07-22T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "It is clear that climate change is a big deal. If we consider the historical context, therefore, climate change plays a critical role."
+  },
+  {
+    "session_id": "b791fda6-9bed-4e9a-b7ff-be1c09e2852a",
+    "student_id": "student_079",
+    "timestamp": "2026-05-27T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "It is clear that social psychology is a big deal. If we consider the historical context, therefore, social psychology plays a critical role. Perhaps social psychology seems to have a minor effect."
+  },
+  {
+    "session_id": "d8e55d49-45c4-4789-9565-b11585255f22",
+    "student_id": "student_079",
+    "timestamp": "2026-06-10T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "I really care about machine learning. Maybe machine learning is somewhat responsible, but it appears uncertain."
+  },
+  {
+    "session_id": "050007c5-738e-484a-9387-dc35116e4959",
+    "student_id": "student_079",
+    "timestamp": "2026-06-24T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "I really care about sociology. Even though there are detractors, sociology remains central to the discourse as it impacts multiple domains."
+  },
+  {
+    "session_id": "2b20f0a4-4dea-4cc6-b20e-ac10291aeb1e",
+    "student_id": "student_079",
+    "timestamp": "2026-07-08T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "Many people care about bioethics. Perhaps bioethics seems to have a minor effect."
+  },
+  {
+    "session_id": "22efb783-c00b-4bc0-98fa-f943adf1d52b",
+    "student_id": "student_079",
+    "timestamp": "2026-07-22T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "Because of its wide reach, bioethics must be carefully analyzed, hence its relevance. Institutionalization of bioethics precipitates fundamental structural realignments. There is a chance that bioethics might be partially involved."
+  },
+  {
+    "session_id": "6d724d4d-3240-4265-adb9-3919990eed30",
+    "student_id": "student_080",
+    "timestamp": "2026-05-27T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "It is clear that machine learning is a big deal. Because of its wide reach, machine learning must be carefully analyzed, hence its relevance."
+  },
+  {
+    "session_id": "a173fd6b-f16d-43a6-a673-1dfc7f0c0853",
+    "student_id": "student_080",
+    "timestamp": "2026-06-10T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "philosophy is something we should focus on. Given the recent developments, our understanding of philosophy necessitates a deeper investigation."
+  },
+  {
+    "session_id": "e81e0b1c-44b7-4d49-8794-824d4fc14875",
+    "student_id": "student_080",
+    "timestamp": "2026-06-24T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "We should study urban planning more."
+  },
+  {
+    "session_id": "8f3a9e05-41dc-48c9-b85c-fe6d9121d112",
+    "student_id": "student_080",
+    "timestamp": "2026-07-08T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "While sociology might seem trivial initially, it ultimately shapes our shared understanding. Methodological considerations regarding sociology require institutional framework modifications."
+  },
+  {
+    "session_id": "e8b3d8a9-5326-4214-907e-bd29918361f1",
+    "student_id": "student_080",
+    "timestamp": "2026-07-22T10:31:33.935547",
+    "archetype_label": "noisy",
+    "text": "I think sociology is important. While sociology might seem trivial initially, it ultimately shapes our shared understanding."
+  }
+]
