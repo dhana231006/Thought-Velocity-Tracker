@@ -3,14 +3,14 @@ import { NavLink, useNavigate } from 'react-router-dom';
 import { LayoutDashboard, Activity, User, LogOut, Brain, Shield, BarChart2 } from 'lucide-react';
 import { toast } from 'sonner';
 
-const Sidebar = () => {
+const Sidebar = ({ isOpen, onClose }) => {
   const navigate = useNavigate();
   const [profile, setProfile] = useState(null);
 
   useEffect(() => {
     const fetchProfile = async () => {
       try {
-        const res = await fetch('http://localhost:8000/api/auth/users/me', {
+        const res = await fetch('/api/auth/users/me', {
           headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
         });
         if (res.ok) {
@@ -38,7 +38,19 @@ const Sidebar = () => {
   const homePath = isAdmin ? '/admin-dashboard' : isFaculty ? '/teacher-dashboard' : '/student-dashboard';
 
   return (
-    <aside className="w-64 glass-panel m-4 flex flex-col h-[calc(100vh-2rem)] rounded-2xl z-20 shrink-0">
+    <>
+      {/* Mobile Backdrop overlay */}
+      {isOpen && (
+        <div 
+          className="fixed inset-0 bg-black/60 backdrop-blur-sm z-40 md:hidden"
+          onClick={onClose}
+        />
+      )}
+      
+      <aside className={`w-64 glass-panel m-2 md:m-4 flex flex-col h-[calc(100vh-1rem)] md:h-[calc(100vh-2rem)] rounded-2xl z-50 shrink-0
+        fixed md:relative top-0 left-0 transition-transform duration-300 ease-in-out
+        ${isOpen ? 'translate-x-0' : '-translate-x-[120%]'} md:translate-x-0
+      `}>
       {/* Brand Header */}
       <div className="p-6 border-b border-border/50 flex items-center space-x-3">
         <div className="p-2 rounded-xl bg-primary/20 border border-primary/30 text-primaryAccent">
@@ -100,6 +112,22 @@ const Sidebar = () => {
           </NavLink>
         )}
 
+        {isAdmin && (
+          <NavLink 
+            to="/admin-concerns"
+            className={({ isActive }) => 
+              `flex items-center space-x-3 px-4 py-3 rounded-xl font-medium text-sm transition-all ${
+                isActive 
+                  ? 'bg-primary/20 text-primaryAccent border border-primary/30 shadow-sm' 
+                  : 'text-textMuted hover:bg-surface hover:text-text'
+              }`
+            }
+          >
+            <Shield className="w-4 h-4" />
+            <span>Manage Concerns</span>
+          </NavLink>
+        )}
+
         <NavLink 
           to="/profile"
           className={({ isActive }) => 
@@ -118,8 +146,12 @@ const Sidebar = () => {
       {/* User Footer Context */}
       <div className="p-4 border-t border-border/50 space-y-3">
         <div className="flex items-center space-x-3 px-3 py-2 bg-black/20 rounded-xl border border-white/5">
-          <div className="w-9 h-9 rounded-xl bg-gradient-to-tr from-primaryAccent to-purple-600 flex items-center justify-center font-bold text-white shadow">
-            {profile?.display_name ? profile.display_name.charAt(0).toUpperCase() : 'U'}
+          <div className="w-9 h-9 rounded-xl bg-gradient-to-tr from-primaryAccent to-purple-600 flex items-center justify-center font-bold text-white shadow overflow-hidden">
+            {profile?.avatar_url ? (
+              <img src={profile.avatar_url.startsWith('http') ? profile.avatar_url : `${profile.avatar_url}`} alt="Avatar" className="w-full h-full object-cover" />
+            ) : (
+              profile?.display_name ? profile.display_name.charAt(0).toUpperCase() : 'U'
+            )}
           </div>
           <div className="text-sm truncate">
             <p className="font-semibold text-white truncate">{profile?.display_name || 'Loading...'}</p>
@@ -139,6 +171,7 @@ const Sidebar = () => {
         </button>
       </div>
     </aside>
+    </>
   );
 };
 

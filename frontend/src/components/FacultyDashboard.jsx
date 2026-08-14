@@ -26,7 +26,7 @@ export default function FacultyDashboard() {
 
   const fetchFacultyProfile = async () => {
     try {
-      const res = await fetch('http://localhost:8000/api/auth/users/me', {
+      const res = await fetch('/api/auth/users/me', {
         headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
       })
       if (res.ok) {
@@ -40,7 +40,7 @@ export default function FacultyDashboard() {
 
   const fetchAssignments = async () => {
     try {
-      const res = await fetch('http://localhost:8000/api/assignments/teacher', {
+      const res = await fetch('/api/assignments/teacher', {
         headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
       })
       if (res.ok) {
@@ -54,7 +54,7 @@ export default function FacultyDashboard() {
 
   const fetchStudents = async () => {
     try {
-      const res = await fetch('http://localhost:8000/api/assignments/students-by-dept', {
+      const res = await fetch('/api/assignments/students-by-dept', {
         headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
       })
       if (res.ok) {
@@ -68,7 +68,7 @@ export default function FacultyDashboard() {
 
   const fetchOtherStudents = async () => {
     try {
-      const res = await fetch('http://localhost:8000/api/assignments/other-dept-students', {
+      const res = await fetch('/api/assignments/other-dept-students', {
         headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
       })
       if (res.ok) {
@@ -82,7 +82,7 @@ export default function FacultyDashboard() {
 
   const fetchRequests = async () => {
     try {
-      const res = await fetch('http://localhost:8000/api/assignments/requests/teacher', {
+      const res = await fetch('/api/assignments/requests/teacher', {
         headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
       })
       if (res.ok) {
@@ -98,7 +98,7 @@ export default function FacultyDashboard() {
     setSelectedAnalysisStudent(studentId)
     setSelectedAnalysisStudentName(studentName)
     try {
-      const res = await fetch(`http://localhost:8000/api/trajectories/${studentId}`)
+      const res = await fetch(`/api/trajectories/${studentId}`)
       if (res.ok) {
         const data = await res.json()
         setTrajectoryData(data)
@@ -122,7 +122,7 @@ export default function FacultyDashboard() {
   const handleAssign = async (e) => {
     e.preventDefault()
     try {
-      const res = await fetch('http://localhost:8000/api/assignments/', {
+      const res = await fetch('/api/assignments/', {
         method: 'POST',
         headers: { 
           'Content-Type': 'application/json',
@@ -146,7 +146,7 @@ export default function FacultyDashboard() {
   const handleRaiseRequest = async (e) => {
     e.preventDefault()
     try {
-      const res = await fetch('http://localhost:8000/api/assignments/request', {
+      const res = await fetch('/api/assignments/request', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

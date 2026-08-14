@@ -53,7 +53,7 @@ def submit_response(req: ResponseSubmit, db: Session = Depends(get_db), current_
     
     # NLP Pipeline Extraction
     doc = pipeline_instance.nlp(req.content)
-    dimensions = pipeline_instance.extract_dimensions(req.content, doc)
+    dimensions, embedding = pipeline_instance.extract_dimensions(req.content, doc, topic=assignment.topic)
     
     # Save Profile
     profile = models.ThinkingProfile(

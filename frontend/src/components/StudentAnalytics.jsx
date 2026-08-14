@@ -29,7 +29,7 @@ export default function StudentAnalytics() {
   useEffect(() => {
     const fetchTrajectory = async () => {
       try {
-        const profileRes = await fetch('http://localhost:8000/api/auth/users/me', {
+        const profileRes = await fetch('/api/auth/users/me', {
           headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
         });
         if (!profileRes.ok) throw new Error('Failed to get user profile');
@@ -37,7 +37,7 @@ export default function StudentAnalytics() {
 
         if (!userProfile.student_id) { setLoading(false); return; }
 
-        const trajRes = await fetch(`http://localhost:8000/api/trajectories/${userProfile.student_id}`, {
+        const trajRes = await fetch(`/api/trajectories/${userProfile.student_id}`, {
           headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
         });
         if (trajRes.ok) {

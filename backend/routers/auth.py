@@ -1,4 +1,7 @@
-from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, status, UploadFile, File, Form
+import shutil
+import uuid
+import os
 from sqlalchemy.orm import Session
 from pydantic import BaseModel
 from ..database import get_db
@@ -273,3 +276,21 @@ def get_system_stats(db: Session = Depends(get_db), current_user: dict = Depends
         "total_assignments": total_assignments,
         "total_thinking_profiles": total_profiles
     }
+
+class ChangePasswordRequest(BaseModel):
+    old_password: str
+    new_password: str
+
+@router.put("/users/me/password")
+def change_password(req: ChangePasswordRequest, db: Session = Depends(get_db), current_user: dict = Depends(get_current_user)):
+    user = db.query(User).filter(User.username == current_user["sub"]).first()
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+        
+    if not verify_password(req.old_password, user.hashed_password):
+        raise HTTPException(status_code=400, detail="Incorrect old password")
+        
+    user.hashed_password = get_password_hash(req.new_password)
+    user.needs_password_change = False
+    db.commit()
+    return {"message": "Password updated successfully"}

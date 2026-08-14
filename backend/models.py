@@ -103,3 +103,18 @@ class AssignmentRequest(Base):
 
     teacher = relationship("User", foreign_keys=[teacher_id])
     student = relationship("Student", foreign_keys=[student_id])
+
+class ConcernRequest(Base):
+    __tablename__ = "concern_requests"
+
+    id = Column(Integer, primary_key=True, index=True)
+    user_id = Column(Integer, ForeignKey("users.id"), index=True)
+    concern_type = Column(String) # e.g. "bio", "photo", "department", "general"
+    topic = Column(String)
+    description = Column(Text)
+    attachment_url = Column(String, nullable=True)
+    status = Column(String, default="pending") # pending, approved, rejected
+    admin_remarks = Column(Text, nullable=True)
+    timestamp = Column(DateTime, default=datetime.datetime.utcnow)
+
+    user = relationship("User", foreign_keys=[user_id])

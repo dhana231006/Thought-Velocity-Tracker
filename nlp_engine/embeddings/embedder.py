@@ -7,10 +7,13 @@ class SemanticEmbedder:
         # Load Sentence-BERT for dense embeddings
         self.embedder = SentenceTransformer('all-MiniLM-L6-v2')
 
-    def get_embedding(self, text):
+    def get_embedding(self, text, topic=""):
         """Generate semantic embeddings using Sentence-BERT as dense vectors."""
         if not text or len(text.strip()) == 0:
             return np.zeros(384).tolist()
+            
+        if topic:
+            text = f"Domain Topic: {topic}. Student Response: {text}"
             
         embedding = self.embedder.encode(text)
         return embedding.tolist()

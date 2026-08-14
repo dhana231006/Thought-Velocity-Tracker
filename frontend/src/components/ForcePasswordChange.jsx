@@ -41,7 +41,7 @@ export default function ForcePasswordChange({ onComplete }) {
 
     setLoading(true)
     try {
-      const response = await fetch('http://localhost:8000/api/auth/change-password-first-login', {
+      const response = await fetch('/api/auth/change-password-first-login', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

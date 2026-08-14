@@ -42,10 +42,10 @@ export default function FacultyCohortAnalytics() {
   const fetchCohort = async () => {
     try {
       const [summaryRes, fullRes] = await Promise.all([
-        fetch('http://localhost:8000/api/trajectories/cohort/summary', {
+        fetch('/api/trajectories/cohort/summary', {
           headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
         }),
-        fetch('http://localhost:8000/api/trajectories/cohort/full', {
+        fetch('/api/trajectories/cohort/full', {
           headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
         })
       ]);

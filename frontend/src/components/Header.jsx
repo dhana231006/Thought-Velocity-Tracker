@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from 'react';
-import { Sparkles, Bell } from 'lucide-react';
+import { Sparkles, Bell, Menu } from 'lucide-react';
 
-const Header = () => {
+const Header = ({ onMenuClick }) => {
   const [profile, setProfile] = useState(null);
 
   useEffect(() => {
     const fetchProfile = async () => {
       try {
-        const res = await fetch('http://localhost:8000/api/auth/users/me', {
+        const res = await fetch('/api/auth/users/me', {
           headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
         });
         if (res.ok) {
@@ -22,12 +22,20 @@ const Header = () => {
   }, []);
 
   return (
-    <header className="h-20 px-8 flex items-center justify-between z-20 border-b border-white/5 bg-black/20 backdrop-blur-md">
-      <div>
-        <h2 className="text-xl font-display font-semibold text-white">
-          Welcome back, {profile?.display_name || 'Student'}
-        </h2>
-        <p className="text-xs text-textMuted mt-0.5">Track your cognitive evolution and longitudinal velocity over time.</p>
+    <header className="h-20 px-4 md:px-8 flex items-center justify-between z-20 border-b border-white/5 bg-black/20 backdrop-blur-md shrink-0">
+      <div className="flex items-center space-x-3">
+        <button 
+          onClick={onMenuClick}
+          className="md:hidden glass-button p-2.5 rounded-xl border border-white/10 bg-white/5 hover:border-primaryAccent/40 transition-colors text-textMuted hover:text-white"
+        >
+          <Menu className="w-5 h-5" />
+        </button>
+        <div>
+          <h2 className="text-lg md:text-xl font-display font-semibold text-white">
+            Welcome back, {profile?.display_name || 'Student'}
+          </h2>
+          <p className="text-[10px] md:text-xs text-textMuted mt-0.5 hidden sm:block">Track your cognitive evolution and longitudinal velocity over time.</p>
+        </div>
       </div>
       
       <div className="flex items-center space-x-3">

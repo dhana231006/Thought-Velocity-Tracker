@@ -4,7 +4,7 @@ import { CheckCircle2, Clock, Send, ArrowLeft, BookOpen, Shield, AlertTriangle, 
 import { toast } from 'sonner'
 
 // ─── Anti-Cheat Violations Config ─────────────────────────────────────────────
-const MAX_VIOLATIONS = 3
+const MAX_VIOLATIONS = 5
 
 export default function Dashboard() {
   const [assignments, setAssignments] = useState([])
@@ -25,7 +25,7 @@ export default function Dashboard() {
 
   const fetchAssignments = async () => {
     try {
-      const res = await fetch('http://localhost:8000/api/assignments/student', {
+      const res = await fetch('/api/assignments/student', {
         headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
       })
       if (res.ok) {
@@ -126,7 +126,6 @@ export default function Dashboard() {
     const blockContextMenu = (e) => e.preventDefault()
     const blockCopyPaste = (e) => {
       e.preventDefault()
-      toast.warning('Copy/Paste is disabled during assessment.', { duration: 2000 })
     }
     const blockKeyShortcuts = (e) => {
       // Block Ctrl+C, Ctrl+V, Ctrl+A, F12, Alt+Tab etc.
@@ -136,9 +135,6 @@ export default function Dashboard() {
         (e.altKey && e.key === 'Tab')
       ) {
         e.preventDefault()
-        if (e.ctrlKey && ['c','v','x'].includes(e.key.toLowerCase())) {
-          toast.warning('Keyboard shortcuts are disabled during assessment.', { duration: 2000 })
-        }
       }
     }
 
@@ -185,7 +181,7 @@ export default function Dashboard() {
     const toastId = toast.loading('Processing response through NLP Pipeline...')
 
     try {
-      const res = await fetch('http://localhost:8000/api/responses/', {
+      const res = await fetch('/api/responses/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

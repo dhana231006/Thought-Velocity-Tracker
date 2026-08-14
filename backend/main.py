@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from . import models
 from .database import engine, get_db
-from .routers import responses, trajectories, assignments, auth, chat
+from .routers import responses, trajectories, assignments, auth, chat, concerns
 from .auth import get_password_hash
 import sys
 import os
@@ -22,6 +22,12 @@ app = FastAPI(
     description="Longitudinal AI system for measuring cognitive evolution trajectories.",
     version="1.0.0"
 )
+
+from fastapi.staticfiles import StaticFiles
+# Create static directory if it doesn't exist
+import os
+os.makedirs("backend/static/avatars", exist_ok=True)
+app.mount("/static", StaticFiles(directory="backend/static"), name="static")
 
 @app.on_event("startup")
 def bootstrap_admin():
@@ -46,6 +52,7 @@ app.include_router(responses.router)
 app.include_router(trajectories.router)
 app.include_router(assignments.router)
 app.include_router(chat.router)
+app.include_router(concerns.router)
 
 if nlp_router:
     app.include_router(nlp_router, prefix="/api", tags=["nlp"])

@@ -49,7 +49,7 @@ function EditUserModal({ user, onClose, onSave }) {
     setSaving(true)
     try {
       // Update display name + department
-      const editRes = await fetch(`http://localhost:8000/api/auth/users/${user.id}`, {
+      const editRes = await fetch(`/api/auth/users/${user.id}`, {
         method: 'PUT',
         headers: {
           'Content-Type': 'application/json',
@@ -74,7 +74,7 @@ function EditUserModal({ user, onClose, onSave }) {
           setSaving(false)
           return
         }
-        const pwRes = await fetch(`http://localhost:8000/api/auth/users/${user.id}/reset-password`, {
+        const pwRes = await fetch(`/api/auth/users/${user.id}/reset-password`, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
@@ -177,6 +177,7 @@ export default function AdminPortal() {
   const [department, setDepartment] = useState('')
   const [users, setUsers] = useState([])
   const [pendingRequests, setPendingRequests] = useState([])
+  const [profileUpdateRequests, setProfileUpdateRequests] = useState([])
   const [roleFilter, setRoleFilter] = useState('all')
   const [deptFilter, setDeptFilter] = useState('all')
   const [systemStats, setSystemStats] = useState(null)
@@ -186,7 +187,7 @@ export default function AdminPortal() {
 
   const fetchUsers = async () => {
     try {
-      const response = await fetch('http://localhost:8000/api/auth/users', {
+      const response = await fetch('/api/auth/users', {
         headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
       })
       if (response.ok) setUsers(await response.json())
@@ -195,7 +196,7 @@ export default function AdminPortal() {
 
   const fetchPendingRequests = async () => {
     try {
-      const response = await fetch('http://localhost:8000/api/assignments/requests/pending', {
+      const response = await fetch('/api/assignments/requests/pending', {
         headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
       })
       if (response.ok) setPendingRequests(await response.json())
@@ -204,10 +205,19 @@ export default function AdminPortal() {
 
   const fetchSystemStats = async () => {
     try {
-      const response = await fetch('http://localhost:8000/api/auth/stats/system', {
+      const response = await fetch('/api/auth/stats/system', {
         headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
       })
       if (response.ok) setSystemStats(await response.json())
+    } catch (err) { console.error(err) }
+  }
+
+  const fetchProfileUpdateRequests = async () => {
+    try {
+      const response = await fetch('/api/auth/profile-update-requests/pending', {
+        headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
+      })
+      if (response.ok) setProfileUpdateRequests(await response.json())
     } catch (err) { console.error(err) }
   }
 
@@ -215,12 +225,13 @@ export default function AdminPortal() {
     fetchUsers()
     fetchPendingRequests()
     fetchSystemStats()
+    fetchProfileUpdateRequests()
   }, [])
 
   const handleCreate = async (e) => {
     e.preventDefault()
     try {
-      const response = await fetch('http://localhost:8000/api/auth/users', {
+      const response = await fetch('/api/auth/users', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ username, password, role, department: department || null })
@@ -238,7 +249,7 @@ export default function AdminPortal() {
 
   const handleApproveRequest = async (reqId) => {
     try {
-      const response = await fetch(`http://localhost:8000/api/assignments/requests/${reqId}/approve`, {
+      const response = await fetch(`/api/assignments/requests/${reqId}/approve`, {
         method: 'POST', headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
       })
       if (response.ok) {
@@ -250,7 +261,7 @@ export default function AdminPortal() {
 
   const handleRejectRequest = async (reqId) => {
     try {
-      const response = await fetch(`http://localhost:8000/api/assignments/requests/${reqId}/reject`, {
+      const response = await fetch(`/api/assignments/requests/${reqId}/reject`, {
         method: 'POST', headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
       })
       if (response.ok) {
@@ -260,10 +271,35 @@ export default function AdminPortal() {
     } catch (err) { toast.error('Network error') }
   }
 
+  const handleApproveProfileRequest = async (reqId) => {
+    try {
+      const response = await fetch(`/api/auth/profile-update-requests/${reqId}/approve`, {
+        method: 'POST', headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
+      })
+      if (response.ok) {
+        toast.success('Profile update request approved!')
+        fetchProfileUpdateRequests()
+        fetchUsers()
+      } else toast.error('Failed to approve request')
+    } catch (err) { toast.error('Network error') }
+  }
+
+  const handleRejectProfileRequest = async (reqId) => {
+    try {
+      const response = await fetch(`/api/auth/profile-update-requests/${reqId}/reject`, {
+        method: 'POST', headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
+      })
+      if (response.ok) {
+        toast.success('Profile update request rejected')
+        fetchProfileUpdateRequests()
+      } else toast.error('Failed to reject request')
+    } catch (err) { toast.error('Network error') }
+  }
+
   const handleDelete = async () => {
     if (!confirmDelete) return
     try {
-      const response = await fetch(`http://localhost:8000/api/auth/users/${confirmDelete.id}`, {
+      const response = await fetch(`/api/auth/users/${confirmDelete.id}`, {
         method: 'DELETE',
         headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` }
       })
@@ -523,6 +559,64 @@ export default function AdminPortal() {
                     Approve
                   </button>
                   <button onClick={() => handleRejectRequest(req.id)}
+                    className="px-3.5 py-1.5 rounded-lg bg-red-500/20 text-red-400 hover:bg-red-500/30 text-xs font-semibold transition-colors">
+                    Reject
+                  </button>
+                </div>
+              </div>
+            ))}
+          </div>
+        </motion.div>
+
+        {/* Profile Update Requests Queue */}
+        <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
+          className="glass-panel p-6 border border-white/5 bg-black/20">
+          <h2 className="text-lg font-display font-semibold text-white mb-2 flex items-center gap-2">
+            <Users className="w-5 h-5 text-emerald-400" />
+            Profile Update Requests Queue ({profileUpdateRequests.length})
+          </h2>
+          <p className="text-xs text-textMuted mb-6">Review requests from users to update their academic bio or profile photo.</p>
+
+          <div className="space-y-3">
+            {profileUpdateRequests.length === 0 ? (
+              <div className="text-center text-xs text-textMuted py-8 bg-black/20 rounded-xl border border-white/5">
+                No pending profile update requests.
+              </div>
+            ) : profileUpdateRequests.map(req => (
+              <div key={req.id}
+                className="p-4 rounded-xl border border-white/5 bg-black/30 flex flex-col md:flex-row md:items-start justify-between gap-4 hover:border-white/10 transition-colors">
+                <div className="space-y-3 flex-1">
+                  <div className="flex items-center gap-1.5 flex-wrap text-sm">
+                    <span className="font-semibold text-white">{req.display_name}</span>
+                    <span className="text-xs text-textMuted">requested an update.</span>
+                  </div>
+                  
+                  <div className="bg-black/20 p-3 rounded-lg border border-white/5">
+                    <p className="text-[10px] uppercase font-bold text-primaryAccent mb-1">Reason for Request:</p>
+                    <p className="text-xs text-white">{req.reason}</p>
+                  </div>
+
+                  <div className="flex flex-col md:flex-row gap-4">
+                    {req.requested_bio !== req.current_bio && req.requested_bio !== null && (
+                      <div className="flex-1 bg-black/20 p-3 rounded-lg border border-white/5">
+                        <p className="text-[10px] uppercase font-bold text-textMuted mb-1">Requested Bio:</p>
+                        <p className="text-xs text-gray-300 italic">"{req.requested_bio}"</p>
+                      </div>
+                    )}
+                    {req.requested_avatar_url && (
+                      <div className="shrink-0 bg-black/20 p-3 rounded-lg border border-white/5 text-center">
+                        <p className="text-[10px] uppercase font-bold text-textMuted mb-2">Requested Photo:</p>
+                        <img src={req.requested_avatar_url} alt="Requested avatar" className="w-16 h-16 rounded-xl object-cover border border-white/10 mx-auto" />
+                      </div>
+                    )}
+                  </div>
+                </div>
+                <div className="flex gap-2 shrink-0 md:pt-1">
+                  <button onClick={() => handleApproveProfileRequest(req.id)}
+                    className="px-3.5 py-1.5 rounded-lg bg-green-500/20 text-green-400 hover:bg-green-500/30 text-xs font-semibold transition-colors">
+                    Approve
+                  </button>
+                  <button onClick={() => handleRejectProfileRequest(req.id)}
                     className="px-3.5 py-1.5 rounded-lg bg-red-500/20 text-red-400 hover:bg-red-500/30 text-xs font-semibold transition-colors">
                     Reject
                   </button>

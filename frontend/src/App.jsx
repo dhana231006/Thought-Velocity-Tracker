@@ -10,6 +10,8 @@ import AdminPortal from './components/AdminPortal';
 import Profile from './components/Profile';
 import StudentAnalytics from './components/StudentAnalytics';
 import ForcePasswordChange from './components/ForcePasswordChange';
+import ConcernForm from './components/ConcernForm';
+import AdminConcerns from './components/AdminConcerns';
 
 function App() {
   const [role, setRole] = useState(localStorage.getItem('role'));
@@ -46,7 +48,13 @@ function App() {
           <Route path="/login" element={!role ? <Login /> : <Navigate to={role === 'admin' ? '/admin-dashboard' : role === 'faculty' ? '/teacher-dashboard' : '/student-dashboard'} />} />
           
           {/* Admin Routes */}
-          <Route path="/admin-dashboard" element={role === 'admin' ? <AdminPortal /> : <Navigate to="/login" />} />
+          {role === 'admin' && (
+            <Route element={<DashboardLayout />}>
+              <Route path="/admin-dashboard" element={<AdminPortal />} />
+              <Route path="/admin-concerns" element={<AdminConcerns />} />
+              <Route path="/profile" element={<Profile />} />
+            </Route>
+          )}
           
           {/* Student Layout Nested Routes */}
           {role === 'student' && (
@@ -54,6 +62,7 @@ function App() {
               <Route path="/student-dashboard" element={<Dashboard />} />
               <Route path="/student-analytics" element={<StudentAnalytics />} />
               <Route path="/profile" element={<Profile />} />
+              <Route path="/concern-form" element={<ConcernForm />} />
             </Route>
           )}
 
@@ -63,6 +72,7 @@ function App() {
               <Route path="/teacher-dashboard" element={<FacultyDashboard />} />
               <Route path="/faculty-cohort-analytics" element={<FacultyCohortAnalytics />} />
               <Route path="/profile" element={<Profile />} />
+              <Route path="/concern-form" element={<ConcernForm />} />
             </Route>
           )}
 
